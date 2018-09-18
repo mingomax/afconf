@@ -1,0 +1,29 @@
+- inverted: 
+  img: icon-about.jpeg
+  name: Tema, visão e valores
+  info: Saiba mais sobre o Tema deste ano, nossa visão e valores.
+  link: "#"
+
+- inverted: timeline-inverted
+  img: icon-agenda.jpeg
+  name: Agenda
+  info: Confira nossa agenda
+  link: "#"
+
+- inverted: 
+  img: icon-team.jpeg
+  name: Time
+  info: Saiba quem está contribuindo com o Evento
+  link: "#"
+
+- inverted: timeline-inverted
+  img: icon-venue.jpeg
+  name: Localização
+  info: Mais informações sobre Oceania Park Hotel & Convention Center.
+  link: "#"
+
+- inverted: 
+  img: icon-faq.jpeg
+  name: FAQs
+  info: Dúvidas? Veja nossa FAQ (Perguntas Mais Frequentes)
+  link: "#"
