@@ -1,0 +1,26 @@
+- title: Tio Patinhas
+  name: tio-patinhas
+  subtitle: CEO
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Gestão
+  description: Gestão agil de empresas
+
+- title: Ada Lovelace
+  name: ada-lovelace
+  subtitle: Escritora
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Algoritimos
+  description: Inovação
+
+- title: Pony Ma
+  name: pony-ma
+  subtitle: CEO Tencent
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Inovação e Tecnologia
+  description: Startups e Inovação
