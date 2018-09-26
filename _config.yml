@@ -3,6 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Estamos indo para a edição 2018 do Agile Floripa! Uma onda de cooperação ágil que vem crescendo em Florianópolis. Este evento veio como meio de fortalecer a comunidade manezinha e catarinense e proporcionar espaço para que as grandes atividades e inovações realizadas no nosso estado sejam compartilhadas de maneira transparente e horizontal!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "agilefloripa.github.io" # the base hostname & protocol for your site
+lang: "pt_BR"
 # Build settings
 markdown: kramdown
 
