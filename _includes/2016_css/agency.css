@@ -93,6 +93,7 @@ h4 {
 
 .img-centered {
     margin: 0 auto;
+    max-width: 60%;
 }
 
 aside.clients {
@@ -339,7 +340,7 @@ header {
     text-align: center;
     color: rgba(255, 255, 255, 0.90);
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/_2018_pages/images/header-tops-agile.jpg');
+    background-image: url('{{ site.baseurl }}/_2018_pages/images/floripa-head.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -350,8 +351,9 @@ header {
 }
 
 header .intro-text {
-    padding-top: 25vh;
+    padding-top: 15vh;
     padding-bottom: 50px;
+    text-shadow: 2px 2px #222;
 }
 
 header .intro-text .intro-lead-in {
@@ -373,7 +375,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {    
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 250px;
         padding-bottom: 200px;
     }
 

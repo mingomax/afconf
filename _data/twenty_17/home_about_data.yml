@@ -7,7 +7,7 @@
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
-  info: Confira nossa agenda
+  info: Em breve
   link: "#"
 
 - inverted: 
@@ -20,10 +20,10 @@
   img: icon-venue.jpeg
   name: Localização
   info: Mais informações sobre Oceania Park Hotel & Convention Center.
-  link: "#"
+  link: "venue"
 
 - inverted: 
   img: icon-faq.jpeg
   name: FAQs
   info: Dúvidas? Veja nossa FAQ (Perguntas Mais Frequentes)
-  link: "#"
+  link: "faqs"
