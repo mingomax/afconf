@@ -96,6 +96,11 @@ h4 {
     max-width: 60%;
 }
 
+.img-round {
+    border-radius: 50%;
+    padding-bottom: 10px;
+}
+
 aside.clients {
     padding-top: 150px;
     padding-bottom: 100px;

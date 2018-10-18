@@ -1,26 +1,24 @@
-- title: Tio Patinhas
-  name: tio-patinhas
+- title: Alisson Vale
+  name: alisson-vale
   subtitle: CEO
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Gestão
-  description: Gestão agil de empresas
-
-- title: Ada Lovelace
-  name: ada-lovelace
-  subtitle: Escritora
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Algoritimos
-  description: Inovação
-
-- title: Pony Ma
-  name: pony-ma
-  subtitle: CEO Tencent
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Inovação e Tecnologia
-  description: Startups e Inovação
+  img: http://louc.me/i/tO5HPH.jpg
+  thumbnail: http://louc.me/i/3P1kaG.jpg
+  alt: Alisson Vale
+  topic: Desvendando o custo de não fazer a coisa certa
+  description: É desenvolvedor de produtos de software, educador e empreendedor. Com mais de 20 anos de experiência em desenvolvimento e liderança de projetos de software, tem sido um praticante e divulgador de métodos modernos de gestão Ágil desde 2003 com uma grande participação em congressos e fóruns de debate no Brasil e no exterior. Em 2008, implementou o primeiro estudo de caso do método Kanban para projetos de software no Brasil e, logo depois, ganhou o prêmio internacional Brickel Key Award por essa implementação. Em 2014, fundou o Software Zen, um empreendimento de educação digital que tem levado conteúdo inovador sobre gestão a milhares de pessoas.
+- title: Henrique Imbertti Jr.
+  name: henrique-imbertti-jr
+  subtitle: Diretor de Agilidade Organizacional
+  img: http://louc.me/i/ttuNMo.jpg
+  thumbnail: http://louc.me/i/XycK9K.jpg
+  alt: Henrique Imbertti Jr.
+  topic: A trajetória não-linear de um agente de mudanças
+  description: Formado em Design, tem MBA em Gerenciamento de Projetos e, desde o início de sua carreira, atua na área de tecnologia, onde aprendeu a programar. Porém, acabou se apaixonando por novas maneiras de gerenciar o trabalho do conhecimento e iniciou assim a sua jornada Lean & Agile. Ele lidera o time de agile coaches no Magazine Luiza que busca fomentar a agilidade organizacional. Nos últimos 10 anos, ele vem ajudando empresas a trabalhar de forma mais ágil. Nessa jornada, ele teve uma experiência internacional, passou por algumas startups e por grandes empresas, como Spotify e Yahoo!.
+- title: Klaus Wuestefeld
+  name: klaus-wuestefeld
+  subtitle: Puxador de Software
+  img: http://louc.me/i/e94LMl.jpg
+  thumbnail: http://louc.me/i/e94LMl.jpg
+  alt: Klaus Wuestefeld
+  topic: Qualitividade - A Prática Chave do Ágil
+  description: Fundador da Objective, sócio da Ignus e da Impulso, Klaus é o pioneiro de métodos ágeis no Brasil. Realizou os eventos Extreme Programming Brasil 2002 e 2004 com a presença de Kent Beck e Mary Poppendieck. É autor do Prevayler e do manifesto da computação soberana. Lidera projetos de desenvolvimento e capacitação em engenharia ágil para empresas como Nubank, TV Globo, Siemens, TIM, GVT, Tribunal de Contas da União e Banco Central do Brasil.
