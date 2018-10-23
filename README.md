@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mingomax/afconf.svg?branch=master)](https://travis-ci.org/mingomax/afconf)
+
 # Jekyll Theme for AgileFloripa 2018 Event
 This theme that is designed to be used for Agile Floripa Conference purposes. The index page is a modification and built on top of [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme). Unlike most Jekyll Themes, Event Jekyll Theme is not meant to be a single page theme. This theme is a package that you can use for your organization's event as it come with almost everything you need. I reorganized all the files to make sure that you can easily reuse the same template each year (or each month, depending on how you organize the path), assuming that you event is once a year. 
 
@@ -41,4 +43,8 @@ _Note: If you forked it and edited `_config.yml` via the online editor on Github
 - `_data/twenty_16/` and `_data/twenty_17/` contains `data` files for agenda, faqs, home about section data, speakers, and team members information. The data file is in the format of `.yml`. The reason why the folders are named `twenty_16` and `twenty_17` are due to liquid syntax will throw errors if the name contains integer. 
 - In order to view PDF correctly, sharing setting in Google Drive must set to "Public on the web".
 
+## Deploy
+Just open a Pull Request.
+
 ## Enjoy!
+
