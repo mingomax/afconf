@@ -16,6 +16,7 @@ branches:
   provider: heroku
   api_key:
     secure: "PMOXMvS+iLUQcwcUmdpRNOBngDwo800a3nh3l2MqVvJiCbuz8o+qy20UD5tFTSqISLBQYBkJ0cpdFcq6OwCkNMpTTHh+AdWLt7wkwCx8ACb2/XsNiMWum7kYmle4J8KuED3yZYgGgqrakNuVP1czEp+PaHp2RUzI/MPyOArpwbOfzv0wlTZZ8EW9zXHQS5s+tSkZfWnClCgVBRGG8810/gnyow7kW8c4oyCw0nbvmcgl8qQbXuIDYnxc2rp8astGJJhuThnMuncN6gl3los04tVtFuCx5Ml513YLTnURANEda5GfpiVG3RNFWw+FNX1mxaMFgn8/fM5yLG/BtZtnxEftJq1zWrtnKXtZxA0sEHt7m72BDiWJ6IjBI9Kq8P3LpOWNKdAm6ugEwppvF1hSJtkuaYStzBDax/NQmIE0COyIF47uP86bEV5TwW/HQnUvvhploWJ/6AMVOlSoSWKfXftXJjEhLny+XU3/EQXUdAQVEAkV8HqwePqdNOzQPXaVWFDFi7e4ue14Zha9rYe55JQ+/CHkY93VZmMm6QQ3UXWCSnyNsKBflxPeAKxtgMRnoaTL+pvrb7vqfd1IM0/kvuKDdt6o7TQDIICLMEI6ztXgC1kNJEMuLKVas2Qgfog1XSwwvLkbRsjeLFZQhSq71Xt9uhCNQMzEOIMs4ai1jww="
-  app: agilefloripa
+  app: 
+   production: agilefloripa
   on:
     repo: mingomax/afconf
