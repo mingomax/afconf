@@ -11,10 +11,10 @@
   }
   /* Column widths are based on these cells */
   .agenda-time {
-    width: 40%;
+    width: 10%;
   }
-  .agenda-actiity {
-     width: 60%;
+  .agenda-activity {
+     width: 45%;
   }
   th, td {
     border: 1px solid #00283c;
@@ -24,6 +24,7 @@
     background: #00283c;
     color: white;
     letter-spacing: 1px;
+    text-align: center;
   }
   td {
     text-align: center;
@@ -45,10 +46,10 @@
 @media screen and (max-width: 760px){
     .agenda {
         .agenda-time {
-            width: 40%;
+            width: 10%;
         }
-        .agenda-actiity {
-            width: 60%;
+        .agenda-activity {
+            width: 45%;
         }
         td, th {
             font-size: 100%;
