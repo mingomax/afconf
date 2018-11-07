@@ -7,8 +7,8 @@
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
-  info: Em breve
-  link: "#"
+  info: Veja aqui a grande completa do evento
+  link: "agenda"
 
 - inverted:
   img: icon-venue.jpeg
