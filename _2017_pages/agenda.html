@@ -12,38 +12,87 @@ published: true
     <div class="event black-frame">
       <h1>{{ page.title }}</h1>
 
-        <h2>Day 1</h2>
+        <h2>Dia 1 (07/12/2018)</h2>
         <table class="agenda">
             <thead>
                 <tr>
-                    <th class="row-1 agenda-time"><center>Time</center></th>
-                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                    <th class="row-1 agenda-time">Horário</th>
+                    <th class="row-2 agenda-activity">Trilha 1</th> 
+                    <th class="row-3 agenda-activity">Trilha 2</th> 
                 </tr>
             </thead>
-
-            {% for agenda in site.data.twenty_17.agendas_1 %}
-                <tr>
-                    <td>{{ agenda.time }}</td>
-                    <td>{{ agenda.info }}</td>
-                </tr> 
-            {% endfor %}
+            <tr>
+                <td>08:00</td>
+                <td colspan="2" style="text-align: center">Credenciamento</td>
+            </tr>
+            <tr>
+                <td>08:45</td>
+                <td colspan="2" style="text-align: center">Abertura</td>
+            </tr>
+            <tr>
+                <td>09:00</td>
+                <td colspan="2" style="text-align: center"><strong>Keynote: Alexandre Magno</strong><br>Práticas Emergentes: O verdadeiro padrão de sucesso das empresas ágeis</td>
+            </tr>
+            <tr>
+                <td>10:00</td>
+                <td colspan="2" style="text-align: center">Coffee break</td>
+            </tr>
+        {% for agenda in site.data.twenty_17.agendas_1 %}
+            <tr>
+                <td>{{ agenda.time }}</td>
+                <td>{% if agenda.speaker_1.confirmed %}{{ agenda.speaker_1.info }}{% else %}Á confirmar{% endif %}</td>
+                <td>{% if agenda.speaker_2.confirmed %}{{ agenda.speaker_2.info }}{% else %}Á confirmar{% endif %}</td>
+            </tr> 
+        {% endfor %}
+            <tr>
+                <td>17:10</td>
+                <td colspan="2" style="text-align: center"><strong>Keynote: Alisson Vale</strong><br>Desvendando o custo de não fazer a coisa certa</td>
+            </tr>
+            <tr>
+                <td>18:10</td>
+                <td colspan="2" style="text-align: center">Encerramento</td>
+            </tr>
         </table>
 
-        <h2>Day 2</h2>
+        <h2>Dia 2 (08/12/2018)</h2>
         <table class="agenda">
             <thead>
                 <tr>
-                    <th class="row-1 agenda-time"><center>Time</center></th>
-                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                    <th class="row-1 agenda-time">Horário</th>
+                    <th class="row-2 agenda-activity">Trilha 1</th> 
+                    <th class="row-3 agenda-activity">Trilha 2</th> 
                 </tr>
-
             </thead>
-
-            {% for agenda in site.data.twenty_17.agendas_2 %}
-                <tr>
-                    <td>{{ agenda.time }}</td>
-                    <td>{{ agenda.info }}</td>
-                </tr> 
-            {% endfor %}
+            <tr>
+                <td>08:00</td>
+                <td colspan="2" style="text-align: center">Credenciamento</td>
+            </tr>
+            <tr>
+                <td>08:45</td>
+                <td colspan="2" style="text-align: center">Abertura</td>
+            </tr>
+            <tr>
+                <td>09:00</td>
+                <td colspan="2" style="text-align: center"><strong>Keynote: Henrique Imberti Jr.</strong><br>A Trajetória não-linear de um agente de mudanças</td>
+            </tr>
+            <tr>
+                <td>10:00</td>
+                <td colspan="2" style="text-align: center">Coffee break</td>
+            </tr>
+        {% for agenda in site.data.twenty_17.agendas_2 %}
+            <tr>
+                <td>{{ agenda.time }}</td>
+                <td>{% if agenda.speaker_1.confirmed %}{{ agenda.speaker_1.info }}{% else %}Á confirmar{% endif %}</td>
+                <td>{% if agenda.speaker_2.confirmed %}{{ agenda.speaker_2.info }}{% else %}Á confirmar{% endif %}</td>
+            </tr> 
+        {% endfor %}
+            <tr>
+                <td>17:10</td>
+                <td colspan="2" style="text-align: center"><strong>Keynote: Klaus Wauestefeld</strong><br>Qualitividade - A prática chave do Ágil</td>
+            </tr>
+            <tr>
+                <td>18:10</td>
+                <td colspan="2" style="text-align: center">Encerramento + Sorteios e Happy Hour \o/</td>
+            </tr>
         </table>
     </div>

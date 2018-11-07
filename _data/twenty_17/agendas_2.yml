@@ -1,5 +1,67 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: "10:30"
+  speaker_1: 
+    info: "<b>Métricas - Como não usar</b><br>Cleiton Mafra(Caco)/Rodrigo Miguel"
+    confirmed: true
+  speaker_2:
+    info: "<b>Abordagens ágeis aplicadas na Gestão Pública</b><br>Kelly Anselmo"
+    confirmed: false
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: "11:10"
+  speaker_1: 
+    info: "<b>Priorize com seu cliente as demandas de forma eficaz</b><br>Helal Ferrari Cabral"
+    confirmed: true
+  speaker_2:
+    info: "<b>A Jornada Agile Coach iniciante</b><br>Willian Ramos"
+    confirmed: true
+
+- time: "11:50"
+  speaker_1: 
+    info: "<b>Os 3 Vs na estratégia de criação de Produtos Digitais</b><br>Rodrigo Silva Pinto"
+    confirmed: false
+  speaker_2:
+    info: "<b>Ética no Mundo da Agilidade - Indivíduos e Interações precisam de acordo claros</b><br>Daniel Rosa"
+    confirmed: false
+
+- time: "12:30"
+  speaker_1: 
+    info: "<div style='text-align: center'>Almoço</div>"
+  speaker_2:
+    info: "<div style='text-align: center'>Almoço</div>"
+
+- time: "14:00"
+  speaker_1: 
+    info: "<b>O Agile Coach Casual - Como gerar mudanças sem ser o Agile Coach</b><br>Emanuel Machado da Silva"
+    confirmed: true
+  speaker_2:
+    info: "<b>Quando a gravidade é mais forte - Problemas da transformação ágil em uma grande empresa</b><br>Vander Lauriano da Silva"
+    confirmed: false
+
+- time: "14:40"
+  speaker_1: 
+    info: "<b>RISK BOARD - Uma abordagem de gerenciamento ágil de Riscos</b><br>Allan Rett Ferreira"
+    confirmed: true
+  speaker_2:
+    info: "<b>Filosofia DevOps aplicada na Vida</b><br>Lamara Ferreira"
+    confirmed: true
+
+- time: "15:20"
+  speaker_1: 
+    info: "<b>O tamanho do Pull Request é muito mais importante do que você pensa</b><br>Rodrigo Miguel"
+    confirmed: true
+  speaker_2:
+    info: "<b>Kaizen week - Mudando o status quo em apenas 5 dias</b></br>Gabriel Pacheco"
+    confirmed: true
+
+- time: "16:00"
+  speaker_1: 
+    info: "<div style='text-align: center'>Coffee break</div>"
+  speaker_2:
+    info: "<div style='text-align: center'>Coffee break</div>"
+
+- time: "16:30"
+  speaker_1: 
+    info: "<b>Como aumentar a resiliência do seu time</b><br>Sebastian Ferrari"
+    confirmed: false
+  speaker_2:
+    info: "<b>A Transformação de um time através do Management 3.0</b></br>Pascoal Vernieri"
+    confirmed: true
