@@ -4,7 +4,7 @@
     confirmed: true
   speaker_2:
     info: "<b>Abordagens ágeis aplicadas na Gestão Pública</b><br>Kelly Anselmo"
-    confirmed: false
+    confirmed: true
 
 - time: "11:10"
   speaker_1: 
@@ -17,10 +17,10 @@
 - time: "11:50"
   speaker_1: 
     info: "<b>Os 3 Vs na estratégia de criação de Produtos Digitais</b><br>Rodrigo Silva Pinto"
-    confirmed: false
+    confirmed: true
   speaker_2:
     info: "<b>Ética no Mundo da Agilidade - Indivíduos e Interações precisam de acordo claros</b><br>Daniel Rosa"
-    confirmed: false
+    confirmed: true
 
 - time: "12:30"
   speaker_1: 
