@@ -36,7 +36,7 @@
     confirmed: true
   speaker_2:
     info: "<b>Do comando e controle a autonomia e responsabilidade: como está sendo essa jornada?</b><br>Marcelo Anderson Carmizini"
-    confirmed: false
+    confirmed: true
 
 - time: "14:40"
   speaker_1: 
@@ -44,7 +44,7 @@
     confirmed: false
   speaker_2:
     info: "<b>Engajamento de times na transformação ágil</b><br>Tiago Weber"
-    confirmed: false
+    confirmed: true
 
 - time: "15:20"
   speaker_1: 
@@ -52,7 +52,7 @@
     confirmed: true
   speaker_2:
     info: "<b>O elefante ágil - Como transformamos a maneira com que o Governo de SC desenvolve software</b></br>Pedro Henrique Ribeiro"
-    confirmed: false
+    confirmed: true
 
 - time: "16:00"
   speaker_1: 

@@ -40,8 +40,8 @@ published: true
         {% for agenda in site.data.twenty_17.agendas_1 %}
             <tr>
                 <td>{{ agenda.time }}</td>
-                <td>{% if agenda.speaker_1.confirmed %}{{ agenda.speaker_1.info }}{% else %}Á confirmar{% endif %}</td>
-                <td>{% if agenda.speaker_2.confirmed %}{{ agenda.speaker_2.info }}{% else %}Á confirmar{% endif %}</td>
+                <td>{% if agenda.speaker_1.confirmed %}{{ agenda.speaker_1.info }}{% else %}A confirmar{% endif %}</td>
+                <td>{% if agenda.speaker_2.confirmed %}{{ agenda.speaker_2.info }}{% else %}A confirmar{% endif %}</td>
             </tr> 
         {% endfor %}
             <tr>
@@ -82,8 +82,8 @@ published: true
         {% for agenda in site.data.twenty_17.agendas_2 %}
             <tr>
                 <td>{{ agenda.time }}</td>
-                <td>{% if agenda.speaker_1.confirmed %}{{ agenda.speaker_1.info }}{% else %}Á confirmar{% endif %}</td>
-                <td>{% if agenda.speaker_2.confirmed %}{{ agenda.speaker_2.info }}{% else %}Á confirmar{% endif %}</td>
+                <td>{% if agenda.speaker_1.confirmed %}{{ agenda.speaker_1.info }}{% else %}A confirmar{% endif %}</td>
+                <td>{% if agenda.speaker_2.confirmed %}{{ agenda.speaker_2.info }}{% else %}A confirmar{% endif %}</td>
             </tr> 
         {% endfor %}
             <tr>
