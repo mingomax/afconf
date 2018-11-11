@@ -4,3 +4,4 @@ _site/
 # travis-ci files
 .bundle/
 vendor/
+.DS_Store
