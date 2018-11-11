@@ -21,37 +21,19 @@ published: true
                     <th class="row-3 agenda-activity">Trilha 2</th> 
                 </tr>
             </thead>
-            <tr>
-                <td>08:00</td>
-                <td colspan="2" style="text-align: center">Credenciamento</td>
-            </tr>
-            <tr>
-                <td>08:45</td>
-                <td colspan="2" style="text-align: center">Abertura</td>
-            </tr>
-            <tr>
-                <td>09:00</td>
-                <td colspan="2" style="text-align: center"><strong>Keynote: Alexandre Magno</strong><br>Práticas Emergentes: O verdadeiro padrão de sucesso das empresas ágeis</td>
-            </tr>
-            <tr>
-                <td>10:00</td>
-                <td colspan="2" style="text-align: center">Coffee break</td>
-            </tr>
         {% for agenda in site.data.twenty_17.agendas_1 %}
             <tr>
                 <td>{{ agenda.time }}</td>
-                <td>{% if agenda.speaker_1.confirmed %}{{ agenda.speaker_1.info }}{% else %}A confirmar{% endif %}</td>
-                <td>{% if agenda.speaker_2.confirmed %}{{ agenda.speaker_2.info }}{% else %}A confirmar{% endif %}</td>
+                {% if agenda.event %}
+                    <td colspan="2" style="text-align: center">{{ agenda.event.info }}</td>
+                {% elsif agenda.keynote %}
+                    <td colspan="2" style="text-align: center">{% if agenda.keynote.confirmed %}{{ agenda.keynote.info }}{% else %}A confirmar{% endif %}</td>
+                {% else %}
+                    <td>{% if agenda.speaker_1.confirmed %}{{ agenda.speaker_1.info }}{% else %}A confirmar{% endif %}</td>
+                    <td>{% if agenda.speaker_2.confirmed %}{{ agenda.speaker_2.info }}{% else %}A confirmar{% endif %}</td>
+                {% endif %}
             </tr> 
         {% endfor %}
-            <tr>
-                <td>17:10</td>
-                <td colspan="2" style="text-align: center"><strong>Keynote: Alisson Vale</strong><br>Desvendando o custo de não fazer a coisa certa</td>
-            </tr>
-            <tr>
-                <td>18:10</td>
-                <td colspan="2" style="text-align: center">Encerramento</td>
-            </tr>
         </table>
 
         <h2>Dia 2 (08/12/2018)</h2>
@@ -63,36 +45,18 @@ published: true
                     <th class="row-3 agenda-activity">Trilha 2</th> 
                 </tr>
             </thead>
-            <tr>
-                <td>08:00</td>
-                <td colspan="2" style="text-align: center">Credenciamento</td>
-            </tr>
-            <tr>
-                <td>08:45</td>
-                <td colspan="2" style="text-align: center">Abertura</td>
-            </tr>
-            <tr>
-                <td>09:00</td>
-                <td colspan="2" style="text-align: center"><strong>Keynote: Henrique Imberti Jr.</strong><br>A Trajetória não-linear de um agente de mudanças</td>
-            </tr>
-            <tr>
-                <td>10:00</td>
-                <td colspan="2" style="text-align: center">Coffee break</td>
-            </tr>
-        {% for agenda in site.data.twenty_17.agendas_2 %}
+            {% for agenda in site.data.twenty_17.agendas_2 %}
             <tr>
                 <td>{{ agenda.time }}</td>
-                <td>{% if agenda.speaker_1.confirmed %}{{ agenda.speaker_1.info }}{% else %}A confirmar{% endif %}</td>
-                <td>{% if agenda.speaker_2.confirmed %}{{ agenda.speaker_2.info }}{% else %}A confirmar{% endif %}</td>
+                {% if agenda.event %}
+                    <td colspan="2" style="text-align: center">{{ agenda.event.info }}</td>
+                {% elsif agenda.keynote %}
+                    <td colspan="2" style="text-align: center">{% if agenda.keynote.confirmed %}{{ agenda.keynote.info }}{% else %}A confirmar{% endif %}</td>
+                {% else %}
+                    <td>{% if agenda.speaker_1.confirmed %}{{ agenda.speaker_1.info }}{% else %}A confirmar{% endif %}</td>
+                    <td>{% if agenda.speaker_2.confirmed %}{{ agenda.speaker_2.info }}{% else %}A confirmar{% endif %}</td>
+                {% endif %}
             </tr> 
         {% endfor %}
-            <tr>
-                <td>17:10</td>
-                <td colspan="2" style="text-align: center"><strong>Keynote: Klaus Wauestefeld</strong><br>Qualitividade - A prática chave do Ágil</td>
-            </tr>
-            <tr>
-                <td>18:10</td>
-                <td colspan="2" style="text-align: center">Encerramento + Sorteios e Happy Hour \o/</td>
-            </tr>
         </table>
     </div>

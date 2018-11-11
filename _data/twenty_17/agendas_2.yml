@@ -1,5 +1,22 @@
+- time: "08:30"
+  event:
+    info: "Credenciamento"
+
+- time: "08:45"
+  event:
+    info: "Abertura"
+
+- time: "09:00"
+  keynote:
+    info: "<strong>Keynote: Henrique Imberti Jr.</strong><br>A Trajetória não-linear de um agente de mudanças"
+    confirmed: true
+
+- time: "10:00"
+  event:
+    info: "Coffee break"
+
 - time: "10:30"
-  speaker_1: 
+  speaker_1:
     info: "<b>Métricas - Como não usar</b><br>Cleiton Mafra(Caco)/Rodrigo Miguel"
     confirmed: true
   speaker_2:
@@ -7,7 +24,7 @@
     confirmed: true
 
 - time: "11:10"
-  speaker_1: 
+  speaker_1:
     info: "<b>Priorize com seu cliente as demandas de forma eficaz</b><br>Helal Ferrari Cabral"
     confirmed: true
   speaker_2:
@@ -15,7 +32,7 @@
     confirmed: true
 
 - time: "11:50"
-  speaker_1: 
+  speaker_1:
     info: "<b>Os 3 Vs na estratégia de criação de Produtos Digitais</b><br>Rodrigo Silva Pinto"
     confirmed: true
   speaker_2:
@@ -23,13 +40,11 @@
     confirmed: true
 
 - time: "12:30"
-  speaker_1: 
-    info: "<div style='text-align: center'>Almoço</div>"
-  speaker_2:
+  event:
     info: "<div style='text-align: center'>Almoço</div>"
 
 - time: "14:00"
-  speaker_1: 
+  speaker_1:
     info: "<b>O Agile Coach Casual - Como gerar mudanças sem ser o Agile Coach</b><br>Emanuel Machado da Silva"
     confirmed: true
   speaker_2:
@@ -37,7 +52,7 @@
     confirmed: false
 
 - time: "14:40"
-  speaker_1: 
+  speaker_1:
     info: "<b>RISK BOARD - Uma abordagem de gerenciamento ágil de Riscos</b><br>Allan Rett Ferreira"
     confirmed: true
   speaker_2:
@@ -45,7 +60,7 @@
     confirmed: true
 
 - time: "15:20"
-  speaker_1: 
+  speaker_1:
     info: "<b>O tamanho do Pull Request é muito mais importante do que você pensa</b><br>Rodrigo Miguel"
     confirmed: true
   speaker_2:
@@ -53,15 +68,22 @@
     confirmed: true
 
 - time: "16:00"
-  speaker_1: 
-    info: "<div style='text-align: center'>Coffee break</div>"
-  speaker_2:
+  event:
     info: "<div style='text-align: center'>Coffee break</div>"
 
 - time: "16:30"
-  speaker_1: 
+  speaker_1:
     info: "<b>Como aumentar a resiliência do seu time</b><br>Sebastian Ferrari"
-    confirmed: false
+    confirmed: true
   speaker_2:
     info: "<b>A Transformação de um time através do Management 3.0</b></br>Pascoal Vernieri"
     confirmed: true
+
+- time: "17:10"
+  keynote:
+    info: "<strong>Keynote: Klaus Wauestefeld</strong><br>Qualitividade - A prática chave do Ágil"
+    confirmed: true
+
+- time: "18:10"
+  event:
+    info: "Encerramento + Sorteios e Happy Hour \\o\/"

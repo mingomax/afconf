@@ -1,37 +1,50 @@
+- time: "08:00"
+  event:
+    info: "Credenciamento"
+
+- time: "08:45"
+  event:
+    info: "Abertura"
+
+- time: "09:00"
+  keynote:
+    info: "<strong>Keynote: Alexandre Magno</strong><br>Práticas Emergentes: O verdadeiro padrão de sucesso das empresas ágeis"
+    confirmed: true
+
+- time: "10:00"
+  event:
+    info: "Coffee break"
+
 - time: "10:30"
-  speaker_1: 
+  speaker_1:
     info: "<b>Saindo da Lama com o Método Kanban</b><br>Cleiton Mafra(Caco)/Saimon Nunes"
     confirmed: true
   speaker_2:
-    info: "<b>Quais os elementos por trás da trasnformação digital</b><br>Thiago Torricelly"
-    confirmed: false
+    info: "<b>Quais os elementos por trás da transformação digital?</b><br>Thiago Torricelly"
+    confirmed: true
 
 - time: "11:10"
-  speaker_1: 
+  speaker_1:
     info: "<b>Do Gantt ao Kanban: A trajetória de um Gerente de Projetos numa transformação ágil</b><br>Tiago da Silva Minuzzi"
-    confirmed: false
+    confirmed: true
   speaker_2:
     info: "<b>Mudando o Mindset de grandes empresas</b><br>Danieli de Paula/Bruno Belini"
     confirmed: true
 
 - time: "11:50"
-  speaker_1: 
+  speaker_1:
     info: "<b>Roadmap: Uma ferramenta ágil que vai muito além de uma lista de features</b><br>João Marcos Alves"
     confirmed: true
   speaker_2:
     info: "<b>Que tipo de Scrum Master você é? O que se omite, o que se corrompe ou o que vai para a guerra?</b><br>Fabiano Freire"
-    confirmed: false
+    confirmed: true
 
 - time: "12:30"
-  speaker_1: 
+  event:
     info: "<div style='text-align: center'>Almoço</div>"
-    confirmed: true
-  speaker_2:
-    info: "<div style='text-align: center'>Almoço</div>"
-    confirmed: true
 
 - time: "14:00"
-  speaker_1: 
+  speaker_1:
     info: "<b>Fluxo Unificado na perspectiva de um desenvolvedor</b><br>Luiz Henrique Guerra"
     confirmed: true
   speaker_2:
@@ -39,15 +52,15 @@
     confirmed: true
 
 - time: "14:40"
-  speaker_1: 
+  speaker_1:
     info: "<b>Ágil para Toda Obra - Curti ágil mas não sou de TI, e agora? Da cozinha ao palco, passando por um estúdio de dublagem, alguns conceitos pra ajudar você a usar ágil em qualquer lugar.</b><br>Maisa Leite Fonseca"
-    confirmed: false
+    confirmed: true
   speaker_2:
     info: "<b>Engajamento de times na transformação ágil</b><br>Tiago Weber"
     confirmed: true
 
 - time: "15:20"
-  speaker_1: 
+  speaker_1:
     info: "<b>Modelagem Ágil: UML ainda serve para alguma coisa?</b><br>Jean Carlo Hauck"
     confirmed: true
   speaker_2:
@@ -55,17 +68,22 @@
     confirmed: true
 
 - time: "16:00"
-  speaker_1: 
+  event:
     info: "<div style='text-align: center'>Coffee break</div>"
-    confirmed: true
-  speaker_2:
-    info: "<div style='text-align: center'>Coffee break</div>"
-    confirmed: true
 
 - time: "16:30"
-  speaker_1: 
+  speaker_1:
     info: "<b>Como atingir nível 2 no Modelo de Maturidade Kanban (KMM) fora de TI?</b><br>Mauricio Correa"
     confirmed: true
   speaker_2:
     info: "<b>Regras adaptativas que promovem a colaboração</b></br>Davi Gabriel da Silva"
     confirmed: true
+
+- time: "17:10"
+  keynote:
+    info: "<strong>Keynote: Alisson Vale</strong><br>Desvendando o custo de não fazer a coisa certa"
+    confirmed: true
+
+- time : "18:10"
+  event:
+    info: "Encerramento"
