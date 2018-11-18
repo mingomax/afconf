@@ -722,7 +722,42 @@ section h3.section-subheading {
 }
 
 aside.clients img {
-    margin: 50px auto;
+    padding-bottom: 50px;
+}
+
+.sponsor-center {
+    float: none;
+    margin: 0 auto;
+}
+.sponsor-title-img {
+    width: 500px;
+    max-width: none;
+}
+
+.sponsor-gold-img {
+    width: 380px;
+    max-width: none;
+    margin-left: -34px;
+}
+
+.sponsor-online-img {
+    width: 220px;
+    max-width: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .sponsor-title-img, .sponsor-online-img {
+        max-width: 100%;
+    }
+
+    .sponsor-gold-img {
+        margin-left: 30px;
+        max-width: 80%;
+    }
+
+    .sponsor-online-img {
+        max-width: 70%;
+    }
 }
 
 section#contact {
