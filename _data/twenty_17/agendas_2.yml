@@ -1,89 +1,215 @@
 - time: "08:30"
   event:
-    info: "Credenciamento"
+    title: "Credenciamento"
 
 - time: "08:45"
   event:
-    info: "Abertura"
+    title: "Abertura"
 
 - time: "09:00"
   keynote:
-    info: "<strong>Keynote: Henrique Imberti Jr.</strong><br>A Trajetória não-linear de um agente de mudanças"
+    id: "keynote-imberti"
+    title: "A Trajetória não-linear de um agente de mudanças"
+    name: "Henrique Imberti Jr."
+    bio: >
+        <b>Henrique Imberti Jr.</b><br/>
+        Formado em Design, tem MBA em Gerenciamento de Projetos e, desde o início de sua carreira, atua na área de tecnologia, onde aprendeu a programar. Porém, acabou se apaixonando por novas maneiras de gerenciar o trabalho do conhecimento e iniciou assim a sua jornada Lean & Agile. Ele lidera o time de agile coaches no Magazine Luiza que busca fomentar a agilidade organizacional. Nos últimos 10 anos, ele vem ajudando empresas a trabalhar de forma mais ágil. Nessa jornada, ele teve uma experiência internacional, passou por algumas startups e por grandes empresas, como Spotify e Yahoo!.
+    img: /_2018_pages/speakers/talkers_rodrigo.png
     confirmed: true
+    info: Lorem ipsum
 
 - time: "10:00"
   event:
-    info: "Coffee break"
+    title: "Coffee break"
 
 - time: "10:30"
   speaker_1:
-    info: "<b>Métricas - Como não usar</b><br>Cleiton Mafra(Caco)/Rodrigo Miguel"
+    id: "caco-rodrigo"
+    title: "Métricas - Como não usar"
+    name: "Cleiton Mafra (Caco) & Rodrigo Miguel"
+    description: >
+        Para transformar a performance do seu time você já sabe que precisa de métricas. E, provavelmente, você já sabe quais são as métricas importantes. Porém, o que temos percebido, é que poucas pessoas sabem de fato como usá-las. Afinal mais importante do que saber qual métrica usar, é saber como interpretar, analisar e tomar ações.
+        É possível que você esteja nessa situação ou conhece alguém que tem dificuldade de interpretar as métricas, certo? 
+        Nós também já passamos por esse cenário! 
+        Por isso resolvemos apresentar a vocês algumas formas de "como NÃO usar as métricas" para mostrar como vocês podem ter o melhor aproveitamento das principais métricas e como utilizá-las adequadamente. Pretendemos compartilhar nossos principais aprendizados nos nossos muitos anos de experiência a frente de times utilizando Kanban.
+        Esperamos que ao final dessa palestra você possa ter um novo olhar sobre as suas métricas para estimular atos de liderança que vão levar seu time à alta performance.
+    bio: >
+        <b>Cleiton Mafra (Caco)</b><br/>
+        <a href="https://www.linkedin.com/in/cleitonmafra/">https://www.linkedin.com/in/cleitonmafra/</a><br/>
+        Agile Coach e Kanban Management Professional, já treinou mais de 600 pessoas no Método Kanban e ajudou mais de 60 times a adotar o método. Como Agile Coach ajuda empresas de tecnologia a terem sucesso e resultados de longo prazo usando a simplicidade. Possui 15 anos de sólida experiência em diferentes cenários, desde startups até grandes empresas. 
+        Atua como Enterprise Agile Coach na Resultados Digitais, uma empresa de tecnologia em rápido crescimento. Seu principal produto é o RD Station Marketing, uma plataforma de automação de marketing com mais de 12.000 clientes em mais de 20 países ao redor do mundo.<br/>
+        <b>Rodrigo Miguel</b><br/>
+        <a href="https://www.linkedin.com/in/rdgomiguel/">https://www.linkedin.com/in/rdgomiguel/</a><br/>
+        Rodrigo Miguel atua em desenvolvimento de software há mais de 18 anos. Ele é apaixonado por pessoas e times, e sua misão é continuamente melhorar o processo de desenvolvimento de software encontrando gargalos, eliminando desperdício, reduzindo o Time to Market, e ajudando as pessoas a melhorar suas habilidades.
+        Atua como Coordenador de Engenharia na Resultados Digitais
     confirmed: true
   speaker_2:
-    info: "<b>Abordagens ágeis aplicadas na Gestão Pública</b><br>Kelly Anselmo"
+    id: "kelly-anselmo"
+    title: "Abordagens ágeis aplicadas na Gestão Pública"
+    name: "Kelly Anselmo"
+    description: ""
+    # bio: ""
     confirmed: true
 
 - time: "11:10"
   speaker_1:
-    info: "<b>Priorize com seu cliente as demandas de forma eficaz</b><br>Helal Ferrari Cabral"
+    id: "helal-cabral"
+    title: "Priorize com seu cliente as demandas de forma eficaz"
+    name: "Helal Ferrari Cabral"
+    description: ""
+    # bio: ""
     confirmed: true
   speaker_2:
-    info: "<b>A Jornada Agile Coach iniciante</b><br>Willian Ramos"
+    id: "willian-ramos"
+    title: "A Jornada Agile Coach iniciante"
+    name: "Willian Ramos"
+    description: ""
+    bio: >
+        <b>Willian Ramos</b><br/>
+        Graduado em Sistemas de Informação e pós-graduado em Gestão Ágil de Projetos, iniciou a carreira como estagiário em desenvolvimento de software e passou por muitas posições ligadas ao desenvolvimento, onde conheceu o mundo ágil, se tornou Scrum Master de uma equipe e não parou mais, esse ano recebeu a missão de se tornar Agile Coach na Ahgora Sistemas.
+    img: /_2018_pages/speakers/william-ramos.jpeg
     confirmed: true
 
 - time: "11:50"
   speaker_1:
-    info: "<b>Os 3 Vs na estratégia de criação de Produtos Digitais</b><br>Rodrigo Silva Pinto"
+    id: "rodrigo-pinto"
+    title: "Os 3 Vs na estratégia de criação de Produtos Digitais"
+    name: "Rodrigo Silva Pinto"
+    description: ""
+    bio: >
+        <b>Rodrigo Silva Pinto</b><br/>
+        Sou formado em TI e tenho Mestrado em Gestão de Sistemas Produtivos.<br/>
+        Trabalho com métodos ágeis a quase 10 anos, nas funções de desenvolvedor, Agile Coach, Chapter Lead e Delivery Manager.<br/>
+        Tenho as designações Professional Scrum Trainer pela Scrum.org, Management 3.0 Facilitator pela Happy Melly e Kanban Management Professional pela LKU.<br/>
+        Meu propósito é que por meio da execução, coaching, mentoring e ensino, promova eficácia, eficiência e sustentabilidade nas organizações.
+    img: /_2018_pages/speakers/rodrigo-pinto.jpeg
     confirmed: true
   speaker_2:
-    info: "<b>Ética no Mundo da Agilidade - Indivíduos e Interações precisam de acordo claros</b><br>Daniel Rosa"
+    id: "daniel-rosa"
+    title: "Ética no Mundo da Agilidade - Indivíduos e Interações precisam de acordo claros"
+    name: "Daniel Rosa"
+    description: ""
+    bio: >
+        <b>Daniel Rosa</b><br/>
+        Daniel Rosa é gestor de equipes na Senior Sistemas. Seu perfil é de criar times de alto desempenho com pessoas motivadas em um clima de diversidade de ideias e respeito pelas individualidades.
     confirmed: true
 
 - time: "12:30"
   event:
-    info: "<div style='text-align: center'>Almoço</div>"
+    title: "Almoço"
 
 - time: "14:00"
   speaker_1:
-    info: "<b>O Agile Coach Casual - Como gerar mudanças sem ser o Agile Coach</b><br>Emanuel Machado da Silva"
+    id: "emanuel-silva"
+    title: "O Agile Coach Casual - Como gerar mudanças sem ser o Agile Coach"
+    name: "Emanuel Machado da Silva"
+    description: ""
+    # bio: ""
     confirmed: true
   speaker_2:
-    info: "<b>Quando a gravidade é mais forte - Problemas da transformação ágil em uma grande empresa</b><br>Vander Lauriano da Silva"
+    id: "vander-silva"
+    title: "Quando a gravidade é mais forte - Problemas da transformação ágil em uma grande empresa"
+    name: "Vander Lauriano da Silva"
+    description: ""
+    # bio: ""
     confirmed: false
 
 - time: "14:40"
   speaker_1:
-    info: "<b>RISK BOARD - Uma abordagem de gerenciamento ágil de Riscos</b><br>Allan Rett Ferreira"
+    id: "allan-ferreira"
+    title: "RISK BOARD - Uma abordagem de gerenciamento ágil de Riscos"
+    name: "Allan Rett Ferreira"
+    description: ""
+    bio: >
+        <b>Allan Rett Ferreira</b><br/>
+        MBA Gerenciamento de Projetos - FGV<br/>
+        Pós-Graduação - Engenharia de Software e Banco de Dados - UEL<br/>
+        Graduação - Ciências da Computação - UNIVEM<br/>
+        Analista de Negócios na Softplan, maior empresa de TI do sul do Brasil.<br/>
+        Gosto de desafios e de aprender coisas novas sempre. Busco sempre aplicar esses novos conhecimentos no dia a dia e ver como esse conhecimento realmente funciona no meio de trabalho.<br/>
+        Atualmente divulgo e auxilio na utilização de metodologias ágeis na empresa onde trabalho.<br/>
+        Sou palestrante ativo em diversos eventos pelo Brasil, como Agile Brazil, Agile Trends e TDC.<br/>
+        Certificações: SAFe Agilist e SAFe PMPO<br/>
+        Empresa: Softplan
+    img: /_2018_pages/speakers/allan-ferreira.png
     confirmed: true
   speaker_2:
-    info: "<b>Filosofia DevOps aplicada na Vida</b><br>Lamara Ferreira"
+    id: "lamara-ferreira"
+    title: "Filosofia DevOps aplicada na Vida"
+    name: "Lamara Ferreira"
+    description: ""
+    bio: >
+        <b>Lamara Ferreira</b><br/>
+        Consultora de TI há 8 anos, com foco em implantação de projetos utilizando as práticas ágeis e cultura DevOps.<br/>
+        Vivência em diferentes segmentos de mercado, tais como: Startups, Meios de pagamento; Companhia Aérea, Indústria de Cosméticos, Setor Bancário, Telecomunicações, setor de Petróleo/ Gás e Atacado e Varejo.<br/>
+        Certificações: EXIN DevOps Professional;<br/>
+        PSM (Professional Scrum Master);<br/>
+        ITIL – Foundation;<br/>
+        Palestrante, escritora e criadora do Meetup DevOps Alphaville +100 membros.<br/>
+        Empresa: ENKEL TI
+    img: /_2018_pages/speakers/lamara-ferreira.jpg
     confirmed: true
 
 - time: "15:20"
   speaker_1:
-    info: "<b>O tamanho do Pull Request é muito mais importante do que você pensa</b><br>Rodrigo Miguel"
+    id: "rodrigo-miguel"
+    title: "O tamanho do Pull Request é muito mais importante do que você pensa"
+    name: "Rodrigo Miguel"
+    description: ""
+    bio: >
+        <b>Rodrigo Miguel</b><br/>
+        Trabalho com desenvolvimento de software há mais ou menos 18 anos. Sou apaixonado por times e pessoas, e minha missão é continuamente melhorar o processo de desenvolvimento de software encontrando gargalos, eliminando desperdício, reduzindo o time-to-market e ajudando as pessoas a melhorarem suas habilidades. Atualmente sou Coordenador de Engenharia na Resultados Digitais. Nosso principal produto é o RD Station Marketing, uma plataforma de marketing digital com mais de 12000 clientes em mais de 20 países.
     confirmed: true
+    img: /_2018_pages/speakers/rodrigo-miguel.jpeg
   speaker_2:
-    info: "<b>Kaizen week - Mudando o status quo em apenas 5 dias</b></br>Gabriel Pacheco"
+    id: "gabriel-pacheco"
+    title: "Kaizen week - Mudando o status quo em apenas 5 dias"
+    name: "Gabriel Pacheco"
+    description: ""
+    bio: >
+        <b>Gabriel Pacheco</b><br/>
+        Consultor ágil na Objective Solutions, profissional com mais de 15 anos de experiência em TI, tendo atuado em empresas de pequeno e grande porte no Brasil e na Irlanda, amplo conhecimento em desenvolvimento de software, liderança, gerenciamento de serviços, transformação ágil e ágil em escala. Graduado em Ciência da Computação, Especializado em Engenharia de Software, MBA em Gerenciamento de projetos e cursando MBA em Gestão Estratégica de Pessoas. Empreteco e com as certificações PMP, PSM, SA, CSPO, KMP e Management 3.0. 
+    img: /_2018_pages/speakers/gabriel-pacheco.jpg
     confirmed: true
 
 - time: "16:00"
   event:
-    info: "<div style='text-align: center'>Coffee break</div>"
+    title: "Coffee break"
 
 - time: "16:30"
   speaker_1:
-    info: "<b>Como aumentar a resiliência do seu time</b><br>Sebastian Ferrari"
+    id: "sebastian-ferrari"
+    title: "Como aumentar a resiliência do seu time"
+    name: "Sebastian Ferrari"
+    description: ""
+    bio: >
+        <b>Sebastian Ferrari</b><br/>
+        Desenvolvedor apaixonado por web desde 2005, utilizando tecnologias open source como PHP e Javascript entregando inovação e soluções de problemas complexos. Forte background em Ops (Infra) e evangelizador da cultura DevOps desde 2013. Membro e colaborador da comunidade Drupal, ReactJS e Javascript colaborando com código, palestrando e organização de eventos como ReactConf BR 2017. CTO e Co-fundador da Taller 
+    img: /_2018_pages/speakers/sebastian-ferrari.jpg
     confirmed: true
   speaker_2:
-    info: "<b>A Transformação de um time através do Management 3.0</b></br>Pascoal Vernieri"
+    id: "pascoal-vernieri"
+    title: "A Transformação de um time através do Management 3.0"
+    name: "Pascoal Vernieri"
+    description: ""
+    bio: >
+        <b>Pascoal Vernieri</b><br/>
+        Pascoal Vernieri, fundador e CEO da Plathanus. Entusiasta de metodologias ágeis. Especialista em Engenharia de Projetos de SW com certificações Management 3.0 "Facilitador oficial da Happy Melly", KMP I, KMP II, CSM, PMP tendo atuado em projetos de multinacionais como ORACLE, TOTVS e MORMAII. Nos últimos anos tem atuado como consultor e facilitador do conhecimento buscado ajudar empresas de tecnologia a terem sucesso em sua jornada pela busca da agilidade por meio de práticas inspiradoras como Management 3.0, Design Thinking, Agilidade, Kanban tornando um ambiente leve e propício a mudanças.<br/>
+        Empresa: Plathanus (http://www.plathanus.com.br)
+    img: /_2018_pages/speakers/pascoal-vernieri.jpg
     confirmed: true
 
 - time: "17:10"
   keynote:
-    info: "<strong>Keynote: Klaus Wauestefeld</strong><br>Qualitividade - A prática chave do Ágil"
+    id: "keynote-klaus-wuestefeld"
+    title: "Qualitividade - A prática chave do Ágil"
+    name: "Klaus Wuestefeld"
+    bio: >
+        <b>Klaus Wuestefeld</b><br/>
+        Fundador da Objective, sócio da Ignus e da Impulso, Klaus é o pioneiro de métodos ágeis no Brasil. Realizou os eventos Extreme Programming Brasil 2002 e 2004 com a presença de Kent Beck e Mary Poppendieck. É autor do Prevayler e do manifesto da computação soberana. Lidera projetos de desenvolvimento e capacitação em engenharia ágil para empresas como Nubank, TV Globo, Siemens, TIM, GVT, Tribunal de Contas da União e Banco Central do Brasil.
+    img: https://louc.me/i/e94LMl.jpg
     confirmed: true
 
 - time: "18:10"
   event:
-    info: "Encerramento + Sorteios e Happy Hour \\o/"
+    title: "Encerramento + Sorteios e Happy Hour \\o/"

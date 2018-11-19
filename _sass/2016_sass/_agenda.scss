@@ -30,16 +30,23 @@
     text-align: center;
     font-size: 110%;
     a {
-        color: #ff6738;
         text-decoration: none;
     }
-    b {
-        color: #ff6738;
+    a:hover {
+        text-decoration: underline;
+        text-decoration-color: #00283c;
     }
   }
   td + td {
     text-align: left;
     padding-left: 10px;
+  }
+  .agenda-name {
+      color: #00283c;
+  }
+  .agenda-title {
+    color: #ff6738;
+    font-weight: 700;
   }
 }
 
@@ -60,5 +67,14 @@
         td + td {
             padding-left: 10px;
         }
+    }
+}
+
+// Modal
+.speaker-modal {
+    .speaker-picture {
+        max-width: 200px;
+        max-height: 200px;
+        display: block;
     }
 }
