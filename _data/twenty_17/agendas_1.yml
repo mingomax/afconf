@@ -1,89 +1,210 @@
 - time: "08:00"
   event:
-    info: "Credenciamento"
+    title: "Credenciamento"
 
 - time: "08:45"
   event:
-    info: "Abertura"
+    title: "Abertura"
 
 - time: "09:00"
   keynote:
-    info: "<strong>Keynote: Alexandre Magno</strong><br>Práticas Emergentes: O verdadeiro padrão de sucesso das empresas ágeis"
+    id: "keynote-alexandre-magno"
+    title: "Práticas Emergentes: O verdadeiro padrão de sucesso das empresas ágeis"
+    name: "Alexandre Magno"
+    bio: >
+        <b>Alexandre Magno</b><br/>
+        Alexandre Magno é fundador da Emergence Business School, e autor do primeiro livro sobre Learning 3.0 (How Creative Workers Learn). É sócio da Scopphu, e investidor do Songfaces, ambas empresas portuguesas. Foi ainda fundador da Adaptworks, empresa que vendeu ao Grupo Emphasys em 2002. Ele é conhecido internacionalmente por seus trabalhos como autor, facilitador, praticante, empreendedor e investidor; já tendo ajudado empresas de diversos países a melhorarem seus resultados quando trabalhando em ambientes instáveis. Foi o primeiro Scrum Alliance's Certified Scrum Trainer de língua portuguesa (2008), e força condutora do crescimento da comunidade Scrum no Brasil e Portugal.
+    img: /_2018_pages/speakers/keynote_alexandre.png
     confirmed: true
 
 - time: "10:00"
   event:
-    info: "Coffee break"
+    title: "Coffee break"
 
 - time: "10:30"
   speaker_1:
-    info: "<b>Saindo da Lama com o Método Kanban</b><br>Cleiton Mafra(Caco)/Saimon Nunes"
+    id: "caco-saimon"
+    title: "Saindo da Lama com o Método Kanban"
+    name: "Cleiton Mafra (Caco) & Saimon Nunes"
+    description: >
+        Seu time está “patinando” por um tempo, ou você assumiu a liderança de um time que está com dificuldades, ou ainda você lidera um time que está sobrecarregado e você tem a missão elevar esse time ao próximo nível? Você não está sozinho, essa é uma realidade mais comum do que você imagina, nós também já passamos por esse cenário.
+        Vamos contar como o Método Kanban, os atos de liderança, o gráfico CFD, as métricas de Lead Time e o Limite do Trabalho em Progresso nos ajudaram a promover mudanças e identificar os comportamento que deveríamos repetir e evitar para levar um time para o próximo nível no período de 6 meses, apresentando quais técnicas e análises utilizamos para manter a performance.
+        Esta é uma palestra sobre um caso real que foi vivido por nós na empresa Resultados Digitais e esperamos que você possa se inspirar e também estimular os atos de liderança na sua empresa.
+    bio: >
+        <b>Cleiton Mafra (Caco)</b><br/>
+        Agile Coach e Kanban Management Professional, já treinou mais de 600 pessoas no Método Kanban e ajudou mais de 60 times a adotar o método. Como Agile Coach ajuda empresas de tecnologia a terem sucesso e resultados de longo prazo usando a simplicidade. Possui 15 anos de sólida experiência em diferentes cenários, desde startups até grandes empresas. É especialista em práticas ágeis, Método Kanban, métricas e indicadores, gestão de produtos, design thinking e em criar times de alta performance.
+        Atualmente atua como Enterprise Agile Coach na Resultados Digitais, uma empresa de tecnologia em rápido crescimento. Seu principal produto é o RD Station Marketing, uma plataforma de automação de marketing com mais de 12.000 clientes em mais de 20 países ao redor do mundo.
+        <b>Saimon Nunes</b><br/>
+        Empreendedor, líder, gestor e coordenador de times de alta performance, apaixonado por tecnologia, gestão de pessoas e agilidade. Possui 19 anos de experiência liderando times de diversos mercados, contextos e indústrias diferentes, tendo trabalhado com grandes empresas do mercado nacional e internacional. É Coordenador de Engenharia na Resultados Digitais, uma empresa de tecnologia em rápido crescimento atuando junto com o Cleiton no RD Station Marketing.
     confirmed: true
   speaker_2:
-    info: "<b>Quais os elementos por trás da transformação digital?</b><br>Thiago Torricelly"
+    id: "thiago-torricelly"
+    title: "Quais os elementos por trás da transformação digital?"
+    name: "Thiago Torricelly"
+    description: ""
+    bio: >
+        <b>Thiago Torricelly</b><br/>
+        20 anos na área de desenvolvimento de softwares, iniciando aos 13 anos através do pai que era analista de sistemas em Cobol. De 2008 a 2012 criou duas empresas, levando a uma jornada de aprendizado sobre abordagens de gestão em empresas de tecnologia. De 2013 a 2017 atuou como Agile Coach em organizações com investimentos pesados em iniciativas de digital como Magazine Luiza, E-commerce do Walmart e Grupo Dasa, o que fez enxergar pontos em comum. Atualmente como CTO na SO Group, startup brasileira com sede no Panamá e laboratório de tecnologia na Cidade do Saber, área criada nos moldes do vale do silício no Panamá, a empresa desenvolve soluções para marketing digital com uso de Big Data e I.A , processando mais de 450 mil requisições web por segundo.
+    img: /_2018_pages/speakers/thiago-torricelly.png
     confirmed: true
 
 - time: "11:10"
   speaker_1:
-    info: "<b>Do Gantt ao Kanban: A trajetória de um Gerente de Projetos numa transformação ágil</b><br>Tiago da Silva Minuzzi"
+    id: "tiago-minuzzi"
+    title: "Do Gantt ao Kanban: A trajetória de um Gerente de Projetos numa transformação ágil"
+    name: "Tiago da Silva Minuzzi"
+    description: ""
+    bio: >
+        <b>Tiago da Silva Minuzzi</b></br>
+        Atualmente sou Gerente de Projetos no Sicredi, na área de VMO, Graduado e Mestre em Sistemas de Informação. Iniciei o uso de método ágeis em 2014, quando começamos o movimento da Transformação Ágil na organização. Desde então, venho implantando esta nova cultura na condução de projetos.
+    img: /_2018_pages/speakers/tiago-minuzzi.jpg
     confirmed: true
   speaker_2:
-    info: "<b>Mudando o Mindset de grandes empresas</b><br>Danieli de Paula/Bruno Belini"
+    id: "danieli-bruno"
+    title: "Mudando o Mindset de grandes empresas"
+    name: "Danieli de Paula & Bruno Belini"
+    description: ""
+    bio: >
+        <b>Danieli de Paula</b><br/>
+        Sou Danieli, tenho 26 anos e 10 anos de experiência com desenvolvimento de sistemas. Sou bacharel em Sistemas de Informação - FURB e Especialista em Engenharia de Projetos de Software - UNISUL.
+        Atualmente atuo como Agile Coach no grupo Ultra. Mas nesses 10 anos de TI, já tive a oportunidade em atuar como dev, analista de sistemas, PO e Scrum Master. Participei de projetos de vários segmentos e clientes diversos, tais como: BM&FBovespa, Serasa Experian, Infraero, Grupo Ultra, EDP - Energias de Portugal, entre outros. Além de entusiasta por metodologias ágeis, gestão e inovação, sou engajada com o empoderamento feminino na área de TI.<br/>
+        Empresa: AMcom</br>
+        <b>Bruno Belini</b><br/>
+        Sou Bruno Belini, trabalhando na área de TI há 12 anos, nos últimos anos trabalhando como gerente de projetos com foco em agilidade.
+        Neste período ajudando grandes empresas na transformação digital, mudança de mindset, implementação de metodologias como Scrum, Método kanban e Lean. 
+        Profissional com as certificações, PMP (Project Management Professional), ASF (Agile Scrum Foundation), ASM (Agile Scrum Master), ICP/ACC (Certified Agile Coach), PSM (Professional Scrum Master) e KMP I (Kanban Systems Design)<br/>
+        Empresa: AMcom
     confirmed: true
 
 - time: "11:50"
   speaker_1:
-    info: "<b>Roadmap: Uma ferramenta ágil que vai muito além de uma lista de features</b><br>João Marcos Alves"
+    id: "joao-alves"
+    title: "Roadmap: Uma ferramenta ágil que vai muito além de uma lista de features"
+    name: "João Marcos Alves"
+    description: ""
     confirmed: true
   speaker_2:
-    info: "<b>Que tipo de Scrum Master você é? O que se omite, o que se corrompe ou o que vai para a guerra?</b><br>Fabiano Freire"
+    id: "fabiano-freire"
+    title: "Que tipo de Scrum Master você é? O que se omite, o que se corrompe ou o que vai para a guerra?"
+    name: "Fabiano Freire"
+    description: ""
+    bio: >
+        <b>Fabiano Freire</b><br/>
+        Apaixonado por agilidade com mais de 10 anos de experiência, onde estive comprometido em apoiar pessoas e empresas a desenvolver e entregar software de qualidade como consequência da utilização do mindset ágil.<br/>
+        Atualmente estou como Agile Coach no Sicredi apoiando na Transformação Ágil dessa empresa centenária.<br/>
+        Empresa: Sicredi
+    img: /_2018_pages/speakers/fabiano-freire.png
     confirmed: true
 
 - time: "12:30"
   event:
-    info: "<div style='text-align: center'>Almoço</div>"
+    title: "Almoço"
 
 - time: "14:00"
   speaker_1:
-    info: "<b>Fluxo Unificado na perspectiva de um desenvolvedor</b><br>Luiz Henrique Guerra"
+    id: "luiz-guerra"
+    title: "Fluxo Unificado na perspectiva de um desenvolvedor"
+    name: "Luiz Henrique Guerra"
+    description: ""
+    bio: >
+        <b>Luiz Henrique Guerra</b><br/>
+        Formado em Design pela UFSC e desenvolvedor fullstack na Taller. Acha engraçado falar de si mesmo na terceira pessoa e sonha em programar tão bem quanto faz churrasco.
+    img: /_2018_pages/speakers/luiz-guerra.jpg
     confirmed: true
   speaker_2:
-    info: "<b>Do comando e controle a autonomia e responsabilidade: como está sendo essa jornada?</b><br>Marcelo Anderson Carmizini"
+    id: "marcelo-camizini"
+    title: "Do comando e controle a autonomia e responsabilidade: como está sendo essa jornada?"
+    name: "Marcelo Anderson Carmizini"
+    description: ""
+    bio: >
+        <b>Marcelo Anderson Carmizini</b><br/>
+        Marcelo é bacharel em Sistemas de Informação com especialização em Projeto e Desenvolvimento de Sistemas para Ambiente Web, Tecnologias de Business Intelligence e mestrado em Ciência da Computação. Desenvolvedor de Software desde 2007, nos últimos 6 anos tem se dedicado a aprofundar os conhecimentos em práticas Ágeis, que acredita serem as abordagens mais eficazes para os times que desejam aumentar a colaboração e a autonomia, construindo produtos que solucionem problemas reais dos clientes. Atualmente é professor universitário e coordena um time de desenvolvedores de software.<br/>
+        Empresa: Datacoper Software
+    img: /_2018_pages/speakers/marcelo-carmizini.jpg
     confirmed: true
 
 - time: "14:40"
   speaker_1:
-    info: "<b>Ágil para Toda Obra - Curti ágil mas não sou de TI, e agora? Da cozinha ao palco, passando por um estúdio de dublagem, alguns conceitos pra ajudar você a usar ágil em qualquer lugar.</b><br>Maisa Leite Fonseca"
+    id: "maisa-fonseca"
+    title: "Ágil para Toda Obra - Curti ágil mas não sou de TI, e agora? Da cozinha ao palco, passando por um estúdio de dublagem, alguns conceitos pra ajudar você a usar ágil em qualquer lugar."
+    name: "Maisa Leite Fonseca"
+    description: ""
+    bio: >
+        <b>Maisa Leite Fonseca</b><br/>
+        Maisa Fonseca é uma eterna estudante e agilista apaixonada. Cursando Análise e Desenvolvimento de Sistemas depois de uma temporada em Letras, trabalha na ArcTouch como gerente de projeto e facilitadora ágil. Nas horas vagas se dedica à filmes, séries e comédia stand up.
     confirmed: true
+    img: /_2018_pages/speakers/maisa-fonseca.jpg
   speaker_2:
-    info: "<b>Engajamento de times na transformação ágil</b><br>Tiago Weber"
+    id: "tiago-weber"
+    title: "Engajamento de times na transformação ágil"
+    name: "Tiago Weber"
+    description: ""
+    bio: >
+        <b>Tiago Weber</b><br/>
+        Tiago Weber é Agile Coach na Stefanini com mais de 10 anos de experiência em metodologias ágeis. Tiago é CSPO e CSM via Scrum Alliance e trabalha para liderar por exemplo em técnicas ágeis e no framework Scrum, trabalhou por 11 anos na HP onde trabalhou intensamente com pesquisa e desenvolvimento de novos produtos, a muito tempo convive com mindset Lean Startup e realiza coach one to one de novos Scrum Masters. Além disso facilita concepções de novos produtos e é um entusiasta na transformação ágil das empresas e instituições.
+    img: /_2018_pages/speakers/tiago-weber.png
     confirmed: true
 
 - time: "15:20"
   speaker_1:
-    info: "<b>Modelagem Ágil: UML ainda serve para alguma coisa?</b><br>Jean Carlo Hauck"
+    id: "jean-hauck"
+    title: "Modelagem Ágil: UML ainda serve para alguma coisa?"
+    name: "Jean Carlo Hauck"
+    description: ""
+    bio: >
+        <b>Jean Carlo Hauck</b><br/>
+        Jean Hauck é doutor em Engenharia do Conhecimento, com a área de pesquisa em Engenharia de Software, e mestre em Ciência da Computação pela Universidade Federal de Santa Catarina (UFSC) e graduado em Ciência da Computação pela Universidade do Vale do Itajaí (Univali).<br/>
+        Adquiriu experiência prática na indústria trabalhando em empresas brasileiras de software, iniciando na área de suporte ao usuário, passando por DBA, programador, analista de sistemas, arquiteto de software, gerente de projetos e diretor de P&D.<br/>
+        Liderou projetos de desenvolvimento de software para grandes clientes, como: Santander, Banco do Brasil, HSBC, Oi e muitos outros. Com essa experiência adquirida, prestou consultorias e ministrou treinamentos nas áreas de Modelagem e Arquitetura de Software e de Melhoria de Processos de Software para grandes empresas, como: Samsung, WEG, Softplan e diversas outras.<br/>
+        Em paralelo à sua atuação na indústria, foi também professor de Engenharia de Software na Universidade do Sul de Santa Catarina (Unisul) e na Univali. Ministrou ainda diversas disciplinas em cursos de Pós-Graduação em Engenharia de Software na Unisul, Univali, Uniplac, Uniasselvi, Sociesc, Uniarp, Unidavi, Estácio e Esucri.<br/>
+        Foi pesquisador visitante no Regulated Software Research Centre - Dundalk Institute of Technology - Irlanda.<br/>
+        Atualmente é Professor Adjunto no Departamento de Informática e Estatística da Universidade Federal de Santa Catarina e também pesquisador do Grupo de Qualidade de Software.
+    img: /_2018_pages/speakers/jean-hauck.png
     confirmed: true
   speaker_2:
-    info: "<b>O elefante ágil - Como transformamos a maneira com que o Governo de SC desenvolve software</b></br>Pedro Henrique Ribeiro"
+    id: "pedro-ribeiro"
+    title: "O elefante ágil - Como transformamos a maneira com que o Governo de SC desenvolve software"
+    name: "Pedro Henrique Ribeiro"
+    description: ""
+    bio: >
+        <b>Pedro Henrique Ribeiro</b><br/>
+        Sysadmin linux durante cinco anos; Bacharel em Ciências da Computação; Python developer na ESSS durante três anos; Agente de mudanças no Centro de Informática e Automação do Estado de Santa Catarina durante os últimos cinco anos. Junto com um grupo de colegas, o meu trabalho é melhorar a forma com que trabalhamos para entregar sistemas e serviços para o Estado e cidadãos catarinenses.
     confirmed: true
 
 - time: "16:00"
   event:
-    info: "<div style='text-align: center'>Coffee break</div>"
+    title: "Coffee break"
 
 - time: "16:30"
   speaker_1:
-    info: "<b>Como atingir nível 2 no Modelo de Maturidade Kanban (KMM) fora de TI?</b><br>Mauricio Correa"
+    id: "mauricio-correa"
+    title: "Como atingir nível 2 no Modelo de Maturidade Kanban (KMM) fora de TI?"
+    name: "Mauricio Correa"
+    description: ""
+    # bio: ""
     confirmed: true
   speaker_2:
-    info: "<b>Regras adaptativas que promovem a colaboração</b></br>Davi Gabriel da Silva"
+    id: "davi-silva"
+    title: "Regras adaptativas que promovem a colaboração"
+    name: "Davi Gabriel da Silva"
+    description: ""
+    bio: >
+        <b>Davi Gabriel da Silva</b><br/>
+        Davi é um transformador de organizações e desenvolvedor de software social. Não satisfeito com as mudanças realizadas em times de desenvolvimento de software como Agile Coach, resolveu abordar um problema organizacional mais profundo: a forma como lidamos com autoridade dentro de empresas. É amante dos temas desenvolvimento organizacional, produtividade, futuro do trabalho e organizações evolutivas. Davi também é pioneiro na prática de Holacracia no Brasil.
+    img: /_2018_pages/speakers/davi-silva.jpg
     confirmed: true
 
 - time: "17:10"
   keynote:
-    info: "<strong>Keynote: Alisson Vale</strong><br>Desvendando o custo de não fazer a coisa certa"
+    id: "keynote-alisson-vale"
+    title: "Desvendando o custo de não fazer a coisa certa"
+    name: "Alisson Vale"
+    bio: >
+        <b>Alisson Vale</b><br/>
+        É desenvolvedor de produtos de software, educador e empreendedor. Com mais de 20 anos de experiência em desenvolvimento e liderança de projetos de software, tem sido um praticante e divulgador de métodos modernos de gestão Ágil desde 2003 com uma grande participação em congressos e fóruns de debate no Brasil e no exterior. Em 2008, implementou o primeiro estudo de caso do método Kanban para projetos de software no Brasil e, logo depois, ganhou o prêmio internacional Brickel Key Award por essa implementação. Em 2014, fundou o Software Zen, um empreendimento de educação digital que tem levado conteúdo inovador sobre gestão a milhares de pessoas."
+    img: /_2018_pages/speakers/talkers_alisson.png
     confirmed: true
 
 - time : "18:10"
   event:
-    info: "Encerramento"
+    title: "Encerramento"

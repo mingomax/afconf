@@ -25,14 +25,14 @@ published: true
             <tr>
                 <td>{{ agenda.time }}</td>
                 {% if agenda.event %}
-                    <td colspan="2" style="text-align: center">{{ agenda.event.info }}</td>
+                    <td colspan="2" style="text-align: center">{{ agenda.event.title }}</td>
                 {% elsif agenda.keynote %}
-                    <td colspan="2" style="text-align: center">{% if agenda.keynote.confirmed %}{{ agenda.keynote.info }}{% else %}A confirmar{% endif %}</td>
+                    <td colspan="2" style="text-align: center"><a href="#{{ agenda.keynote.id }}" data-toggle="modal">{% if agenda.keynote.confirmed %}<div class="agenda-title">Keynote: {{ agenda.keynote.title }}</div><div class="agenda-name">{{ agenda.keynote.name }}</div></a>{% else %}A confirmar{% endif %}</td>
                 {% else %}
-                    <td>{% if agenda.speaker_1.confirmed %}{{ agenda.speaker_1.info }}{% else %}A confirmar{% endif %}</td>
-                    <td>{% if agenda.speaker_2.confirmed %}{{ agenda.speaker_2.info }}{% else %}A confirmar{% endif %}</td>
+                    <td>{% if agenda.speaker_1.confirmed %}<a href="#{{ agenda.speaker_1.id }}" data-toggle="modal"><div class="agenda-title">{{ agenda.speaker_1.title }}</div><div class="agenda-name">{{ agenda.speaker_1.name }}</div></a>{% else %}A confirmar{% endif %}</td>
+                    <td>{% if agenda.speaker_2.confirmed %}<a href="#{{ agenda.speaker_2.id }}" data-toggle="modal"><div class="agenda-title">{{ agenda.speaker_2.title }}</div><div class="agenda-name">{{ agenda.speaker_2.name }}</div></a>{% else %}A confirmar{% endif %}</td>
                 {% endif %}
-            </tr> 
+            </tr>
         {% endfor %}
         </table>
 
@@ -49,14 +49,225 @@ published: true
             <tr>
                 <td>{{ agenda.time }}</td>
                 {% if agenda.event %}
-                    <td colspan="2" style="text-align: center">{{ agenda.event.info }}</td>
+                    <td colspan="2" style="text-align: center">{{ agenda.event.title }}</td>
                 {% elsif agenda.keynote %}
-                    <td colspan="2" style="text-align: center">{% if agenda.keynote.confirmed %}{{ agenda.keynote.info }}{% else %}A confirmar{% endif %}</td>
+                <td colspan="2" style="text-align: center"><a href="#{{ agenda.keynote.id }}" data-toggle="modal">{% if agenda.keynote.confirmed %}<div class="agenda-title">Keynote: {{ agenda.keynote.title }}</div><div class="agenda-name">{{ agenda.keynote.name }}</div></a>{% else %}A confirmar{% endif %}</td>
                 {% else %}
-                    <td>{% if agenda.speaker_1.confirmed %}{{ agenda.speaker_1.info }}{% else %}A confirmar{% endif %}</td>
-                    <td>{% if agenda.speaker_2.confirmed %}{{ agenda.speaker_2.info }}{% else %}A confirmar{% endif %}</td>
+                    <td>{% if agenda.speaker_1.confirmed %}<a href="#{{ agenda.speaker_1.id }}" data-toggle="modal"><div class="agenda-title">{{ agenda.speaker_1.title }}</div><div class="agenda-name">{{ agenda.speaker_1.name }}</div></a>{% else %}A confirmar{% endif %}</td>
+                    <td>{% if agenda.speaker_2.confirmed %}<a href="#{{ agenda.speaker_2.id }}" data-toggle="modal"><div class="agenda-title">{{ agenda.speaker_2.title }}</div><div class="agenda-name">{{ agenda.speaker_2.name }}</div></a>{% else %}A confirmar{% endif %}</td>
                 {% endif %}
-            </tr> 
+            </tr>
         {% endfor %}
         </table>
     </div>
+
+    <!-- Modals -->
+    {% for agenda in site.data.twenty_17.agendas_1 %}
+    {% if agenda.speaker_1 %}
+    <div class="speaker-modal portfolio-modal modal fade" id="{{ agenda.speaker_1.id }}" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <h2>{{ agenda.speaker_1.title }}</h2>
+                                <hr class="star-primary">
+                                {% if agenda.speaker_1.img %}
+                                    <img src="{{ agenda.speaker_1.img }}" class="img-responsive img-centered img-thumbnail speaker-picture">
+                                {% else %}
+                                    <img src="../css/2017_style/img/team/TBD.jpg" class="img-responsive img-centered speaker-picture">
+                                {% endif %}
+                                <p>{{ agenda.speaker_1.description }}</p>
+                                {% if agenda.speaker_1.bio %}
+                                <div>
+                                    <strong>Bio:</strong><br />
+                                    <small>{{ agenda.speaker_1.bio }}</small>
+                                </div>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+    {% if agenda.speaker_2 %}
+    <div class="speaker-modal portfolio-modal modal fade" id="{{ agenda.speaker_2.id }}" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <h2>{{ agenda.speaker_2.title }}</h2>
+                                <hr class="star-primary">
+                                {% if agenda.speaker_2.img %}
+                                    <img src="{{ agenda.speaker_2.img }}" class="img-responsive img-centered img-thumbnail speaker-picture">
+                                {% else %}
+                                    <img src="../css/2017_style/img/team/TBD.jpg" class="img-responsive img-centered speaker-picture">
+                                {% endif %}
+                                <p>{{ agenda.speaker_2.description }}</p>
+                                {% if agenda.speaker_2.bio %}
+                                <div>
+                                    <strong>Bio:</strong><br />
+                                    <small>{{ agenda.speaker_2.bio }}</small>
+                                </div>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+    {% if agenda.keynote %}
+    <div class="speaker-modal portfolio-modal modal fade" id="{{ agenda.keynote.id }}" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <h2>{{ agenda.keynote.title }}</h2>
+                                <hr class="star-primary">
+                                {% if agenda.keynote.img %}
+                                    <img src="{{ agenda.keynote.img }}" class="img-responsive img-centered img-thumbnail speaker-picture">
+                                {% else %}
+                                    <img src="../css/2017_style/img/team/TBD.jpg" class="img-responsive img-centered speaker-picture">
+                                {% endif %}
+                                <p>{{ agenda.keynote.description }}</p>
+                                {% if agenda.keynote.bio %}
+                                <div>
+                                    <strong>Bio:</strong><br />
+                                    <small>{{ agenda.keynote.bio }}</small>
+                                </div>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+    {% endfor %}
+
+    {% for agenda in site.data.twenty_17.agendas_2 %}
+    {% if agenda.speaker_1 %}
+    <div class="speaker-modal portfolio-modal modal fade" id="{{ agenda.speaker_1.id }}" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <h2>{{ agenda.speaker_1.title }}</h2>
+                                <hr class="star-primary">
+                                {% if agenda.speaker_1.img %}
+                                    <img src="{{ agenda.speaker_1.img }}" class="img-responsive img-centered img-thumbnail speaker-picture">
+                                {% else %}
+                                    <img src="../css/2017_style/img/team/TBD.jpg" class="img-responsive img-centered speaker-picture">
+                                {% endif %}
+                                <p>{{ agenda.speaker_1.description }}</p>
+                                {% if agenda.speaker_1.bio %}
+                                <div>
+                                    <strong>Bio:</strong><br />
+                                    <small>{{ agenda.speaker_1.bio }}</small>
+                                </div>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+    {% if agenda.speaker_2 %}
+    <div class="speaker-modal portfolio-modal modal fade" id="{{ agenda.speaker_2.id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>{{ agenda.speaker_2.title }}</h2>
+                            <hr class="star-primary">
+                            {% if agenda.speaker_2.img %}
+                                <img src="{{ agenda.speaker_2.img }}" class="img-responsive img-centered img-thumbnail speaker-picture">
+                            {% else %}
+                                <img src="../css/2017_style/img/team/TBD.jpg" class="img-responsive img-centered speaker-picture">
+                            {% endif %}
+                            <p>{{ agenda.speaker_2.description }}</p>
+                            {% if agenda.speaker_2.bio %}
+                            <div>
+                                <strong>Bio:</strong><br />
+                                <small>{{ agenda.speaker_2.bio }}</small>
+                            </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    {% if agenda.keynote %}
+    <div class="speaker-modal portfolio-modal modal fade" id="{{ agenda.keynote.id }}" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <h2>{{ agenda.keynote.title }}</h2>
+                                <hr class="star-primary">
+                                {% if agenda.keynote.img %}
+                                    <img src="{{ agenda.keynote.img }}" class="img-responsive img-centered img-thumbnail speaker-picture">
+                                {% else %}
+                                    <img src="../css/2017_style/img/team/TBD.jpg" class="img-responsive img-centered speaker-picture">
+                                {% endif %}
+                                <p>{{ agenda.keynote.description }}</p>
+                                {% if agenda.keynote.bio %}
+                                <div>
+                                    <strong>Bio:</strong><br />
+                                    <small>{{ agenda.keynote.bio }}</small>
+                                </div>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+    {% endfor %}
