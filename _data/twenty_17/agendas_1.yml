@@ -41,7 +41,14 @@
     id: "thiago-torricelly"
     title: "Quais os elementos por trás da transformação digital?"
     name: "Thiago Torricelly"
-    description: ""
+    description: >
+        Transformação digital é apenas uma buzzword ou é algo real?<br/>
+        O que caracteriza uma transformação digital?<br/>
+        Quais as diferenças entre uma organização digital e uma não digital?<br/>
+        O que as abordagens ágeis e lean tem haver com a transformação digital?<br/>
+        Tenho visto diferentes pontos de vistas sobre estas perguntas em discussões sobre digital dentro e fora das empresas.<br/>
+        O que é ser uma organização digital parece não ter uma resposta definitiva que seja consenso para todos.<br/>
+        A proposta desta palestra é demonstrar alguns exemplos em comum de organizações digitais, como fizeram,  trazendo maior compreensão sobre os principais elementos por trás de uma transformação digital, inspirar a utilização deles nas organizações, e arriscar a ter uma definição mais clara sobre o que é ser uma organização digital de VER-DA-DE!
     bio: >
         <b>Thiago Torricelly</b><br/>
         20 anos na área de desenvolvimento de softwares, iniciando aos 13 anos através do pai que era analista de sistemas em Cobol. De 2008 a 2012 criou duas empresas, levando a uma jornada de aprendizado sobre abordagens de gestão em empresas de tecnologia. De 2013 a 2017 atuou como Agile Coach em organizações com investimentos pesados em iniciativas de digital como Magazine Luiza, E-commerce do Walmart e Grupo Dasa, o que fez enxergar pontos em comum. Atualmente como CTO na SO Group, startup brasileira com sede no Panamá e laboratório de tecnologia na Cidade do Saber, área criada nos moldes do vale do silício no Panamá, a empresa desenvolve soluções para marketing digital com uso de Big Data e I.A , processando mais de 450 mil requisições web por segundo.
@@ -53,7 +60,10 @@
     id: "tiago-minuzzi"
     title: "Do Gantt ao Kanban: A trajetória de um Gerente de Projetos numa transformação ágil"
     name: "Tiago da Silva Minuzzi"
-    description: ""
+    description: >
+        Hoje uma das principais incógnitas é o formato de atuação do Gerente de Projetos em um ambiente ágil.<br/>
+        Você acredita que há espaço para este papel dentro de uma organização que está em transformação?<br/>
+        Será compartilhado com você como está sendo a minha experiência como Gerente de Projetos, em um ambiente em transformação que está saindo do modelo tradicional e hierárquico para um modelo Ágil.
     bio: >
         <b>Tiago da Silva Minuzzi</b></br>
         Atualmente sou Gerente de Projetos no Sicredi, na área de VMO, Graduado e Mestre em Sistemas de Informação. Iniciei o uso de método ágeis em 2014, quando começamos o movimento da Transformação Ágil na organização. Desde então, venho implantando esta nova cultura na condução de projetos.
@@ -63,7 +73,10 @@
     id: "danieli-bruno"
     title: "Mudando o Mindset de grandes empresas"
     name: "Danieli de Paula & Bruno Belini"
-    description: ""
+    description: >
+        Como quebrar o mindset de empresas tradicionais?<br/>
+        Nesta palestra, abordaremos sobre a transformação do mindset de duas empresas que estão entre as 350 maiores empresas do Brasil. Mostrando como sair da cultura burocrática com processos morosos e entregas apenas no final do projeto para adoção da cultura ágil, com treinamentos, métricas, entregas contínuas, fluxo puxado, projetos entregues conforme o planejado e acima de tudo, promovendo satisfação do cliente.<br/>
+        Na apresentação serão mostrados alguns casos reais de projetos de empresas tradicionais, onde o cliente não tinha a visão do seu gargalo, condução do projeto e entregas.  Vamos mostrar como saímos do processo tradicional sem sucesso para projeto de agilidade e satisfação do cliente, trazendo um case misto entre Cia Hering e grupo Ultra.
     bio: >
         <b>Danieli de Paula</b><br/>
         Sou Danieli, tenho 26 anos e 10 anos de experiência com desenvolvimento de sistemas. Sou bacharel em Sistemas de Informação - FURB e Especialista em Engenharia de Projetos de Software - UNISUL.
@@ -80,14 +93,21 @@
   speaker_1:
     id: "joao-alves"
     title: "Roadmap: Uma ferramenta ágil que vai muito além de uma lista de features"
-    name: "João Marcos Alves"
-    description: ""
+    name: "João Marcus Alves"
+    description: >
+        Um roadmap é muito mais que uma lista que representa um cronograma de entrega de features. É uma ferramenta ágil que comunica a estratégia da empresa, visão do produto e direção de crescimento.<br/>
+        Muitas empresas tradicionais e startups lutam contra o tempo e escopo, e para atingirem objetivos de negócio esquecem dos valores da cultura ágil por se basearem em uma visão míope do que é um roadmap.<br/>
+        Essa palestra mostra técnicas para alavancar o pontencial completo de um bom roadmap, para ajudar empresas a definirem seus objetivos, estratégias e resultados esperados em um contexto agil.
+    bio: >
+        <b>João Marcus Alves</b><br/>
+        Mestre em ciência da computação pela UFSC, com uma década de experiência em desenvolvimento de produto, eu uso uma abordagem científica para ajudar times a criar ótimos produtos que os clientes adoram. Na bagagem tenho a gestão de múltiplos produtos para área médica, onde qualidade é um fator crítico, sucesso do cliente e agora service desk e aprendizado de máquina.
     confirmed: true
   speaker_2:
     id: "fabiano-freire"
     title: "Que tipo de Scrum Master você é? O que se omite, o que se corrompe ou o que vai para a guerra?"
     name: "Fabiano Freire"
-    description: ""
+    description: >
+        Vamos conversar sobre a relação entre o papel do Scrum Master com suas motivações de mudar o mundo e o status quo de algumas empresas que induzem às pessoas a entrarem no "sistema". E como esses ambientes impactam na jornada dos times.
     bio: >
         <b>Fabiano Freire</b><br/>
         Apaixonado por agilidade com mais de 10 anos de experiência, onde estive comprometido em apoiar pessoas e empresas a desenvolver e entregar software de qualidade como consequência da utilização do mindset ágil.<br/>
@@ -105,7 +125,8 @@
     id: "luiz-guerra"
     title: "Fluxo Unificado na perspectiva de um desenvolvedor"
     name: "Luiz Henrique Guerra"
-    description: ""
+    description: >
+        De dentro do time da operação, quais são as diferenças e peculiaridades desse modelo? O que muda no dia-a-dia do desenvolvedor? E o que representa em sua cultura de trabalho?
     bio: >
         <b>Luiz Henrique Guerra</b><br/>
         Formado em Design pela UFSC e desenvolvedor fullstack na Taller. Acha engraçado falar de si mesmo na terceira pessoa e sonha em programar tão bem quanto faz churrasco.
@@ -115,7 +136,8 @@
     id: "marcelo-camizini"
     title: "Do comando e controle a autonomia e responsabilidade: como está sendo essa jornada?"
     name: "Marcelo Anderson Carmizini"
-    description: ""
+    description: >
+        O objetivo dessa talk é compartilhar as experiências e os desafios encontrados durante uma jornada de mudanças em um time de desenvolvimento de aproximadamente 12 pessoas, com o intuito de amadurecer o time em relação a autonomia e a colaboração.
     bio: >
         <b>Marcelo Anderson Carmizini</b><br/>
         Marcelo é bacharel em Sistemas de Informação com especialização em Projeto e Desenvolvimento de Sistemas para Ambiente Web, Tecnologias de Business Intelligence e mestrado em Ciência da Computação. Desenvolvedor de Software desde 2007, nos últimos 6 anos tem se dedicado a aprofundar os conhecimentos em práticas Ágeis, que acredita serem as abordagens mais eficazes para os times que desejam aumentar a colaboração e a autonomia, construindo produtos que solucionem problemas reais dos clientes. Atualmente é professor universitário e coordena um time de desenvolvedores de software.<br/>
@@ -128,7 +150,8 @@
     id: "maisa-fonseca"
     title: "Ágil para Toda Obra - Curti ágil mas não sou de TI, e agora? Da cozinha ao palco, passando por um estúdio de dublagem, alguns conceitos pra ajudar você a usar ágil em qualquer lugar."
     name: "Maisa Leite Fonseca"
-    description: ""
+    description: >
+        A palestra visa melhorar a compreensão da agilidade por iniciantes e pessoas que não sejam de TI. A idéia é indicar a importância de iniciar o processo de agilidade com ciclos de construção, inspeção e adaptação.
     bio: >
         <b>Maisa Leite Fonseca</b><br/>
         Maisa Fonseca é uma eterna estudante e agilista apaixonada. Cursando Análise e Desenvolvimento de Sistemas depois de uma temporada em Letras, trabalha na ArcTouch como gerente de projeto e facilitadora ágil. Nas horas vagas se dedica à filmes, séries e comédia stand up.
@@ -150,7 +173,8 @@
     id: "jean-hauck"
     title: "Modelagem Ágil: UML ainda serve para alguma coisa?"
     name: "Jean Carlo Hauck"
-    description: ""
+    description: >
+        Esta palestra apresenta a Modelagem Ágil (MA), que toma por base valores, princípios e práticas ágeis aplicadas à modelagem de software, como alternativa para introdução de práticas de modelagem. Os fundamentos da MA serão brevemente apresentados e um exemplo prático de uso em conjunto com o Scrum também será apresentado. De forma bem humorada, esta palestra irá trazer uma visão interessante de porquê e como modelar software de maneira ágil, moderna e eficaz.
     bio: >
         <b>Jean Carlo Hauck</b><br/>
         Jean Hauck é doutor em Engenharia do Conhecimento, com a área de pesquisa em Engenharia de Software, e mestre em Ciência da Computação pela Universidade Federal de Santa Catarina (UFSC) e graduado em Ciência da Computação pela Universidade do Vale do Itajaí (Univali).<br/>
@@ -165,7 +189,11 @@
     id: "pedro-ribeiro"
     title: "O elefante ágil - Como transformamos a maneira com que o Governo de SC desenvolve software"
     name: "Pedro Henrique Ribeiro"
-    description: ""
+    description: >
+        Minha palestra contará os últimos três anos de história da área de desenvolvimento de software do CIASC.<br/>
+        Somos responsáveis por desenvolver e manter diversos sistemas críticos para o Estado de Santa Catarina.<br/>
+        No início de 2015 era difícil fazer senso de como trabalhávamos. Hoje, conhecemos nossa capacidade, temos visibilidade do trabalho em andamento e melhoria contínua é parte da cultura de gerenciamento.<br/>
+        Sendo parte do grupo que protagonizou todas essas mudanças, vou contar essa história abordando temas como: convencimento da diretoria; transição para equipes auto-gerenciáveis; gestão de portfólio; problemas com estrutura organizacional inadequada; re-estruturação organizacional e alinhamento e autonomia.
     bio: >
         <b>Pedro Henrique Ribeiro</b><br/>
         Sysadmin linux durante cinco anos; Bacharel em Ciências da Computação; Python developer na ESSS durante três anos; Agente de mudanças no Centro de Informática e Automação do Estado de Santa Catarina durante os últimos cinco anos. Junto com um grupo de colegas, o meu trabalho é melhorar a forma com que trabalhamos para entregar sistemas e serviços para o Estado e cidadãos catarinenses.
@@ -180,14 +208,22 @@
     id: "mauricio-correa"
     title: "Como atingir nível 2 no Modelo de Maturidade Kanban (KMM) fora de TI?"
     name: "Mauricio Correa"
-    description: ""
-    # bio: ""
+    description: >
+        Uma das primeiras associações que fazemos ao falar sobre Kanban é refletir isso no ambiente de desenvolvimento de software. Então, queremos apresentar uma experiência do Kanban ligado ao RH, mais precisamente na área de Gestão do Conhecimento Técnico de todas as soluções de uma organização.<br/>
+        Como evoluímos na maturidade no emprego do kanban, como aplicamos as métricas para gerir, dar visibilidade e priorização por classes de serviços tanto em Discovery e Delivery em uma base de conhecimento que possui mais de 30G de conteúdo disponível. Se você tem um cenário similar dentro da sua empresa, então essa palestra é para você! Vamos te contar como foi esse caso prático!
+    bio: >
+        Trabalho há mais de 20 anos em empresas de tecnologia. Formado em Administração de Empresas e Direito. Especializações de tecnologia de informação pela FGV e Gerenciamento de Projetos. Atuo no acompanhamento e gerenciamento de projetos ágeis que envolvem equipes de alta performance. Destaco a transformação ágil de unidades de negócio da Senior Sistemas S/A, tendo foco na ajuda constante, como coach ou trainner, na jornada/experimentação Ágil (Scrum, XP, FDD, Lean, SAFe, Kanban) nestas empresas.<br/>
+        Uma das maiores metas, como entusiasta, é fazer com que as organizações e pessoas descubram os seus potenciais de agilidade para obter o máximo em resultados num menor tempo possível.
     confirmed: true
   speaker_2:
     id: "davi-silva"
     title: "Regras adaptativas que promovem a colaboração"
     name: "Davi Gabriel da Silva"
-    description: ""
+    description: >
+        Um ambiente sem regras ou acordos destrói a colaboração e favorece estruturas implícitas de poder. Saiba como fugir dessas armadilhas e criar regras adaptativas.<br/>
+        Indivíduos e interações mais que processos e ferramentas. Alguns entendem essa frase como "regras são burocracia e portanto, indesejadas em times ágeis". Mas a verdade é que um ambiente sem regras explícitas pode facilmente levar à "tirania da desestrutura" (The Tyranny of Structurelessness) e ao paternalismo. Para ser ágil e prosperar, regras são imprescindíveis, especialmente se você quer criar um ambiente colaborativo.<br/>
+        Mas nem todas as regras são boas. Uma política de dress code do RH pode ser uma regra ruim. Um formato padrão de propostas que você deve seguir também pode te atrapalhar. Regras imutáveis, especialmente impostas top-down, são as piores.<br/>
+        Nesta palestra falarei sobre a forma como organizações normalmente lidam com regras e porque nós as odiamos. Tratarei das principais armadilhas em criar ambientes "livres de regras e hierarquia", e como isso pode afetar a agilidade. Falarei também sobre o conceito de regras adaptativas, que seguem 3 critérios: acordadas, dinâmicas e libertadoras. Trarei também exemplos de regras adaptativas: ligação dupla, decisão por consentimento e a regra de ouro da Holacracia.
     bio: >
         <b>Davi Gabriel da Silva</b><br/>
         Davi é um transformador de organizações e desenvolvedor de software social. Não satisfeito com as mudanças realizadas em times de desenvolvimento de software como Agile Coach, resolveu abordar um problema organizacional mais profundo: a forma como lidamos com autoridade dentro de empresas. É amante dos temas desenvolvimento organizacional, produtividade, futuro do trabalho e organizações evolutivas. Davi também é pioneiro na prática de Holacracia no Brasil.
