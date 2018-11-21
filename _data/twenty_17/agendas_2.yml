@@ -14,7 +14,7 @@
     bio: >
         <b>Henrique Imberti Jr.</b><br/>
         Formado em Design, tem MBA em Gerenciamento de Projetos e, desde o início de sua carreira, atua na área de tecnologia, onde aprendeu a programar. Porém, acabou se apaixonando por novas maneiras de gerenciar o trabalho do conhecimento e iniciou assim a sua jornada Lean & Agile. Ele lidera o time de agile coaches no Magazine Luiza que busca fomentar a agilidade organizacional. Nos últimos 10 anos, ele vem ajudando empresas a trabalhar de forma mais ágil. Nessa jornada, ele teve uma experiência internacional, passou por algumas startups e por grandes empresas, como Spotify e Yahoo!.
-    img: /_2018_pages/speakers/talkers_rodrigo.png
+    img: /_2018_pages/speakers/talkers_imbertti.png
     confirmed: true
     info: Lorem ipsum
 
@@ -42,13 +42,18 @@
         <a href="https://www.linkedin.com/in/rdgomiguel/">https://www.linkedin.com/in/rdgomiguel/</a><br/>
         Rodrigo Miguel atua em desenvolvimento de software há mais de 18 anos. Ele é apaixonado por pessoas e times, e sua misão é continuamente melhorar o processo de desenvolvimento de software encontrando gargalos, eliminando desperdício, reduzindo o Time to Market, e ajudando as pessoas a melhorar suas habilidades.
         Atua como Coordenador de Engenharia na Resultados Digitais
+    img: /_2018_pages/speakers/caco-and-rodrigo-miguel.jpg
     confirmed: true
   speaker_2:
     id: "kelly-anselmo"
     title: "Abordagens ágeis aplicadas na Gestão Pública"
     name: "Kelly Anselmo"
-    description: ""
-    # bio: ""
+    description: >
+        Nesta palestra, você irá saber como a aplicação de abordagens ágeis em órgãos públicos que não envolvem a TI, podem melhorar a comunicação, a qualidade das entregas, a colaboração e o engajamento entre os membros da equipe elevando o nível de maturidade e a auto-organização.
+    bio: >
+        <b>Kelly Anselmo</b><br/>
+        Atua há mais de 12 anos como especialista implantação de metodologias híbridas de gestão de projetos (PMBOK, Scrum, XP, Kanban e Lean). Já executou projetos em empresas nos segmentos de TI, P&D, saúde, engenharia, tecnologia, transportes e soluções para gestão pública. Algumas das empresas em que já atuou: Governança Brasil (GOVBR), Westsoft Consultoria, Unimed Grande Florianópolis, Portal Unimed, Celtec entre outras. Atualmente, está finalizando a implementação do projeto de reestruturação do Escritório de Projetos na Secretaria do Planejamento do Governo do Estado de Santa Catarina (EPROJSC). É proprietária da empresa Projecta Consultoria & Gestão onde atua consultora, agile coach, gerente de projetos, mentora e instrutora de cursos in company voltados para a implantação de boas práticas de gestão de projetos e desenvolvimento de competências organizacionais. É palestrante, e também, professora em cursos de graduação e pós-graduação.
+    img: /_2018_pages/speakers/kelly-anselmo.jpg
     confirmed: true
 
 - time: "11:10"
@@ -56,14 +61,18 @@
     id: "helal-cabral"
     title: "Priorize com seu cliente as demandas de forma eficaz"
     name: "Helal Ferrari Cabral"
-    description: ""
-    # bio: ""
+    description: >
+        Um dos principais desafios dentro de uma operação de TI é saber exatamente o que é realmente prioritário para seu cliente, pois no entendimento dele tudo é importante, porém, com a utilização da matemática conseguimos emergir o que é preciso ser entregue primeiro.
+    bio: >
+        <b>Helal Ferrari Cabral</b><br/>
+        Analista de Negócios há 4 anos e técnico por 13 anos. Apaixonado pelo mundo de TI desde a parte comercial até a operação. Certified PPTO (Pau Pra Toda Obra).
     confirmed: true
   speaker_2:
     id: "willian-ramos"
     title: "A Jornada Agile Coach iniciante"
     name: "Willian Ramos"
-    description: ""
+    description: >
+        Esse case conta a uma jornada de um Agile Coach em um empresa que não existiam pessoas com esse foco e engatinhava no mundo da agilidade. Como superei as desconfianças, a inexperiência e os desafios iniciais desse novo desafio e como entre erros e acertos estruturei um time de Agilidade com propósito e resultados reais.
     bio: >
         <b>Willian Ramos</b><br/>
         Graduado em Sistemas de Informação e pós-graduado em Gestão Ágil de Projetos, iniciou a carreira como estagiário em desenvolvimento de software e passou por muitas posições ligadas ao desenvolvimento, onde conheceu o mundo ágil, se tornou Scrum Master de uma equipe e não parou mais, esse ano recebeu a missão de se tornar Agile Coach na Ahgora Sistemas.
@@ -75,7 +84,14 @@
     id: "rodrigo-pinto"
     title: "Os 3 Vs na estratégia de criação de Produtos Digitais"
     name: "Rodrigo Silva Pinto"
-    description: ""
+    description: >
+        Peter Drucker disse: "É mais importante fazer as coisas que devem ser feitas do que fazer as coisas como devem ser feitas."<br/>
+        Na criação de produtos é mais importante focar em O QUÊ fazer do que no COMO fazer.<br/>
+        A proposta é o explorar os 3 Vs da Estratégia na criação de Produtos Digitais:<br/>
+        - Visão: como delimitar um norte a ser perseguido e alinhar os esforços nessa direção<br/>
+        - Valor: sabemos que precisamos entregar valor para cliente, mas as vezes não sabemos o que significa significa<br/>
+        - Validação: nada é constante exceto a mudança, ou seja, temos que trabalhar com hipóteses e ciclos de curtos de feedback<br/>
+        Em cada um dos pontos serão apresentadas ferramentas que ajudarão o audiência a implementar os conceitos.
     bio: >
         <b>Rodrigo Silva Pinto</b><br/>
         Sou formado em TI e tenho Mestrado em Gestão de Sistemas Produtivos.<br/>
@@ -88,7 +104,13 @@
     id: "daniel-rosa"
     title: "Ética no Mundo da Agilidade - Indivíduos e Interações precisam de acordo claros"
     name: "Daniel Rosa"
-    description: ""
+    description: >
+        Nossa sociedade atual vive um momento de grande intolerância publica com as divergências de pensamentos, visto o que tem acontecido em redes sociais dos mais diversos seguimentos (corporativos, sócias, grupos de what’s up, rodas de bar).<br/>
+        A comunidade ágil não está isenta dessa situação. O manifesto ágil prega em seus valores comportamentos de convivência social, auto organização, empoderamento de equipes, foco em gerar valor ao cliente com produtos e serviços, mas podem surgir os seguintes questionamentos:<br/>
+        Como efetuar todos essas coisas respeitando as individualidades? <br/>
+        O que fazer para criar grupos com valores sólidos, alinhando todos os valores individuais que estão interagindo?<br/>
+        Usaremos para essa palestra teorias de grandes pensadores, sociólogos, psicólogos e filósofos sobre ética e comportamento social. Tudo ligado ao nosso mundo da agilidade dentro e fora das organizações, usando o manifesto ágil como base para mostrar que ele não é somente um direcionador de mindset organizacional, mas uma nova forma de relacionamento entre as pessoas.<br/>
+        Direcionaremos a palestra para o debate, o cuidado com o conteúdo e trazer a reflexão sobre como elevar o nível de nossos debates, trabalhando as divergências de opinião e convergência de novas ideias construtivas para a comunidade e seu fortalecimento.
     bio: >
         <b>Daniel Rosa</b><br/>
         Daniel Rosa é gestor de equipes na Senior Sistemas. Seu perfil é de criar times de alto desempenho com pessoas motivadas em um clima de diversidade de ideias e respeito pelas individualidades.
@@ -104,22 +126,26 @@
     title: "O Agile Coach Casual - Como gerar mudanças sem ser o Agile Coach"
     name: "Emanuel Machado da Silva"
     description: ""
-    # bio: ""
+    bio: >
+        <b>Emanuel Machado da Silva</b><br/>
+        Emanuel (mais conhecido como Bill entre amigos) é um programador desde os 12 anos de idade, e profissionalmente nos últimos 9 anos. Se apaixonou por ágil na faculdade, e perdeu o amor quando começou a trabalhar em um time scrum, mas reecontrou a paixão quando percebeu que o importante não é o processo, mas sim questionar e adaptar. Hoje trabalha como programador Android na ArcTouch, em Floripa, mas isso não o impediu de se tornar CSM e KMP, nem de meter o bedelho no processo dos outros times, pra ajudar a todos a questionar e melhorar seu dia a dia no trabalho.
     confirmed: true
   speaker_2:
-    id: "vander-silva"
-    title: "Quando a gravidade é mais forte - Problemas da transformação ágil em uma grande empresa"
-    name: "Vander Lauriano da Silva"
+    id: "fishbowl"
+    title: "Fishbowl"
+    name: "Gabriel Vieira (Facilitador)"
     description: ""
-    # bio: ""
-    confirmed: false
+    confirmed: true
 
 - time: "14:40"
   speaker_1:
     id: "allan-ferreira"
     title: "RISK BOARD - Uma abordagem de gerenciamento ágil de Riscos"
     name: "Allan Rett Ferreira"
-    description: ""
+    description: >
+        Os métodos Ágeis magicamente apagaram a necessidade de identificar e mitigar os riscos de projetos de software? A resposta é NÃO! Mesmo que os riscos fossem reduzidos através das entregas contínuas e com entregas de menor esforço, ainda é necessário gerenciar e classificar os riscos dos projetos.<br/>
+        Adicionar riscos ao projeto e gerenciá-los, diminuirá as chances de variabilidade e surpresas nos projetos.<br/>
+        Conheça o RISK BOARD, uma ferramenta criada para gerenciar os riscos e as respostas necessárias ao risco de forma ágil.
     bio: >
         <b>Allan Rett Ferreira</b><br/>
         MBA Gerenciamento de Projetos - FGV<br/>
@@ -137,7 +163,9 @@
     id: "lamara-ferreira"
     title: "Filosofia DevOps aplicada na Vida"
     name: "Lamara Ferreira"
-    description: ""
+    description: >
+        Esta palestra se encaixa na proposta do evento, pois atualmente têm se ouvido falar muito de DevOps como algo separado/distante das práticas Ágeis, muito focado em ferramentas e automação. Quando na verdade, estão totalmente interligados, unidos e precisam caminhar juntos. A filosofia DevOps nos traz a importância da colaboração entre os times, a disseminação do conhecimento, o poder da empatia entre as pessoas,  da estruturação o fluxo de valor, da confiança, do feedback e da resiliência organizacional. A apresentação inicia com uma timeline macro, explicando o desenrolar da TI nos últimos anos, como os conflitos que apareceram, os modelos de gestão surgiram e como Ágil e DevOps se conectaram. Em seguida, são abordados os principais tópicos da Filosofia DevOps aplicados ao nosso cotidiano, para melhorar a forma como nos organizamos, entregamos nossos projetos e até como vivemos.<br/>
+        O público alvo desta palestra contempla todos os papéis: QA, Desenvolvedores, PO, Gestores, Scrum Master, Agile Coach, Infra, Suporte e e outros...
     bio: >
         <b>Lamara Ferreira</b><br/>
         Consultora de TI há 8 anos, com foco em implantação de projetos utilizando as práticas ágeis e cultura DevOps.<br/>
@@ -155,7 +183,8 @@
     id: "rodrigo-miguel"
     title: "O tamanho do Pull Request é muito mais importante do que você pensa"
     name: "Rodrigo Miguel"
-    description: ""
+    description: >
+        Será que o tamanho dos Pull Requests do time realmente importa? Se sim, qual deveria ser o tamanho ideal? Nesta palestra eu exploro o porquê é importante estar preocupado com o tamanho dos Pull Requests e faço uma análise matemática de qual deveria ser o seu tamanho ideal. Explico também o impacto na qualidade e na velocidade de desenvolvimento que o tamanho dos Pull Requests pode causar, analiso os custos associados a esse tamanho e mostro a relação direta com a Teoria das Filas.
     bio: >
         <b>Rodrigo Miguel</b><br/>
         Trabalho com desenvolvimento de software há mais ou menos 18 anos. Sou apaixonado por times e pessoas, e minha missão é continuamente melhorar o processo de desenvolvimento de software encontrando gargalos, eliminando desperdício, reduzindo o time-to-market e ajudando as pessoas a melhorarem suas habilidades. Atualmente sou Coordenador de Engenharia na Resultados Digitais. Nosso principal produto é o RD Station Marketing, uma plataforma de marketing digital com mais de 12000 clientes em mais de 20 países.
@@ -165,7 +194,12 @@
     id: "gabriel-pacheco"
     title: "Kaizen week - Mudando o status quo em apenas 5 dias"
     name: "Gabriel Pacheco"
-    description: ""
+    description: >
+        Imagine que seja possível emergir melhorias na sua organização fazendo com que sua equipe resolva problemas complexos. Imaginou? Parece bom não é?<br/>
+        O objetivo é trazer ao público o Kaizen Week, metodologia que temos utilizado com sucesso para mudar o status quo de grandes organizações, através de Kaizens com foco na redução dos desperdícios e melhoria contínua.<br/>
+        O método é baseado no Google Design Sprint, consiste em compreender a situação atual, divergir ideias, convergir para o processo ideal, executar, validar e acompanhar as mudanças.<br/>
+        Apresentaremos informações reais da aplicação nos nossos clientes e dos resultados obtidos.<br/>
+        Assista essa palestra e veja que é totalmente possível
     bio: >
         <b>Gabriel Pacheco</b><br/>
         Consultor ágil na Objective Solutions, profissional com mais de 15 anos de experiência em TI, tendo atuado em empresas de pequeno e grande porte no Brasil e na Irlanda, amplo conhecimento em desenvolvimento de software, liderança, gerenciamento de serviços, transformação ágil e ágil em escala. Graduado em Ciência da Computação, Especializado em Engenharia de Software, MBA em Gerenciamento de projetos e cursando MBA em Gestão Estratégica de Pessoas. Empreteco e com as certificações PMP, PSM, SA, CSPO, KMP e Management 3.0. 
@@ -181,7 +215,8 @@
     id: "sebastian-ferrari"
     title: "Como aumentar a resiliência do seu time"
     name: "Sebastian Ferrari"
-    description: ""
+    description: >
+        O que fragiliza seu time de desenvolvimento? Decisões de arquitetura, conhecimento e comunicação com o cliente de forma centralizada podem se tornar pontos fracos (e gargalos) diminuindo a resiliência do seu time perante a complexidade de acontecimentos inesperados impactando o fluxo de entrega de valor, inovação dos projetos de sua organização e finalmente a motivação do seu time. Vou te contar os pilares que aumentaram a resiliência na área de desenvolvimento da Taller, com um time enxuto e 100% remoto. Alguns sendo o Fluxo Unificado, maneiras de compartilhamento de conhecimento, cadências de Kaizen, pair programming, core time, contratação colaborativa e liderança distribuída.
     bio: >
         <b>Sebastian Ferrari</b><br/>
         Desenvolvedor apaixonado por web desde 2005, utilizando tecnologias open source como PHP e Javascript entregando inovação e soluções de problemas complexos. Forte background em Ops (Infra) e evangelizador da cultura DevOps desde 2013. Membro e colaborador da comunidade Drupal, ReactJS e Javascript colaborando com código, palestrando e organização de eventos como ReactConf BR 2017. CTO e Co-fundador da Taller 
@@ -191,7 +226,8 @@
     id: "pascoal-vernieri"
     title: "A Transformação de um time através do Management 3.0"
     name: "Pascoal Vernieri"
-    description: ""
+    description: >
+        Nesta palestra apresentarei como o Management 3.0 me ajudou a reconstruir um time de 40 pessoas totalmente desacreditadas a se tornarem um time multidisciplinar de alta performance. Durante a palestra mostrarei o passo a passo de cada fase desta transformação sobre a ótica de cada visão do M3.0.  A primeira técnica utilizada foi identificar os problemas através de Design Thinking para termos um diagnóstico rápido e poder desenhar as principais ações onde fosse sobre a ótica dos colaboradores da área a fim de tornar eles parte da transformação. A partir deste momento ganhei a equipe a qual fomos aplicando conceitos para influlencia-los, desenvolve-los e assim engajarmos eles neste processo.
     bio: >
         <b>Pascoal Vernieri</b><br/>
         Pascoal Vernieri, fundador e CEO da Plathanus. Entusiasta de metodologias ágeis. Especialista em Engenharia de Projetos de SW com certificações Management 3.0 "Facilitador oficial da Happy Melly", KMP I, KMP II, CSM, PMP tendo atuado em projetos de multinacionais como ORACLE, TOTVS e MORMAII. Nos últimos anos tem atuado como consultor e facilitador do conhecimento buscado ajudar empresas de tecnologia a terem sucesso em sua jornada pela busca da agilidade por meio de práticas inspiradoras como Management 3.0, Design Thinking, Agilidade, Kanban tornando um ambiente leve e propício a mudanças.<br/>
