@@ -42,6 +42,7 @@
         <a href="https://www.linkedin.com/in/rdgomiguel/">https://www.linkedin.com/in/rdgomiguel/</a><br/>
         Rodrigo Miguel atua em desenvolvimento de software há mais de 18 anos. Ele é apaixonado por pessoas e times, e sua misão é continuamente melhorar o processo de desenvolvimento de software encontrando gargalos, eliminando desperdício, reduzindo o Time to Market, e ajudando as pessoas a melhorar suas habilidades.
         Atua como Coordenador de Engenharia na Resultados Digitais
+    img: /_2018_pages/speakers/caco-and-rodrigo-miguel.jpg
     confirmed: true
   speaker_2:
     id: "kelly-anselmo"
@@ -130,12 +131,11 @@
         Emanuel (mais conhecido como Bill entre amigos) é um programador desde os 12 anos de idade, e profissionalmente nos últimos 9 anos. Se apaixonou por ágil na faculdade, e perdeu o amor quando começou a trabalhar em um time scrum, mas reecontrou a paixão quando percebeu que o importante não é o processo, mas sim questionar e adaptar. Hoje trabalha como programador Android na ArcTouch, em Floripa, mas isso não o impediu de se tornar CSM e KMP, nem de meter o bedelho no processo dos outros times, pra ajudar a todos a questionar e melhorar seu dia a dia no trabalho.
     confirmed: true
   speaker_2:
-    id: "vander-silva"
-    title: "Quando a gravidade é mais forte - Problemas da transformação ágil em uma grande empresa"
-    name: "Vander Lauriano da Silva"
+    id: "fishbowl"
+    title: "Fishbowl"
+    name: "Gabriel Vieira (Facilitador)"
     description: ""
-    # bio: ""
-    confirmed: false
+    confirmed: true
 
 - time: "14:40"
   speaker_1:

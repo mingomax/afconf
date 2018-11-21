@@ -37,6 +37,7 @@
         <b>Saimon Nunes</b><br/>
         Empreendedor, líder, gestor e coordenador de times de alta performance, apaixonado por tecnologia, gestão de pessoas e agilidade. Possui 19 anos de experiência liderando times de diversos mercados, contextos e indústrias diferentes, tendo trabalhado com grandes empresas do mercado nacional e internacional. É Coordenador de Engenharia na Resultados Digitais, uma empresa de tecnologia em rápido crescimento atuando junto com o Cleiton no RD Station Marketing.
     confirmed: true
+    img: /_2018_pages/speakers/caco-and-saimon.jpg
   speaker_2:
     id: "thiago-torricelly"
     title: "Quais os elementos por trás da transformação digital?"
@@ -87,6 +88,7 @@
         Neste período ajudando grandes empresas na transformação digital, mudança de mindset, implementação de metodologias como Scrum, Método kanban e Lean. 
         Profissional com as certificações, PMP (Project Management Professional), ASF (Agile Scrum Foundation), ASM (Agile Scrum Master), ICP/ACC (Certified Agile Coach), PSM (Professional Scrum Master) e KMP I (Kanban Systems Design)<br/>
         Empresa: AMcom
+    img: /_2018_pages/speakers/danieli-and-bruno.jpg
     confirmed: true
 
 - time: "11:50"
@@ -212,6 +214,7 @@
         Uma das primeiras associações que fazemos ao falar sobre Kanban é refletir isso no ambiente de desenvolvimento de software. Então, queremos apresentar uma experiência do Kanban ligado ao RH, mais precisamente na área de Gestão do Conhecimento Técnico de todas as soluções de uma organização.<br/>
         Como evoluímos na maturidade no emprego do kanban, como aplicamos as métricas para gerir, dar visibilidade e priorização por classes de serviços tanto em Discovery e Delivery em uma base de conhecimento que possui mais de 30G de conteúdo disponível. Se você tem um cenário similar dentro da sua empresa, então essa palestra é para você! Vamos te contar como foi esse caso prático!
     bio: >
+        <b>Mauricio Correa</b><br/>
         Trabalho há mais de 20 anos em empresas de tecnologia. Formado em Administração de Empresas e Direito. Especializações de tecnologia de informação pela FGV e Gerenciamento de Projetos. Atuo no acompanhamento e gerenciamento de projetos ágeis que envolvem equipes de alta performance. Destaco a transformação ágil de unidades de negócio da Senior Sistemas S/A, tendo foco na ajuda constante, como coach ou trainner, na jornada/experimentação Ágil (Scrum, XP, FDD, Lean, SAFe, Kanban) nestas empresas.<br/>
         Uma das maiores metas, como entusiasta, é fazer com que as organizações e pessoas descubram os seus potenciais de agilidade para obter o máximo em resultados num menor tempo possível.
     confirmed: true
