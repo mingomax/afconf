@@ -8,11 +8,11 @@ lang: "pt_BR"
 markdown: kramdown
 
 facebook:
-  app_id: 
+  app_id:
 
 logo: "../2018_pages/images/agilefloripa-logo.png"
 
-social: 
+social:
   name: Agile Floripa
   link: "https://www.facebook.com/agilefloripa"
 
@@ -36,3 +36,5 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+exclude:
+  - vendor
