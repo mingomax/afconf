@@ -293,9 +293,13 @@ fieldset[disabled] .btn-xl.active {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 600;
     letter-spacing: 1px;
-    color: #fff;
+    color: #6e94cc;
+}
+
+.navbar-shrink .nav li a {
+    color: #FFF;
 }
 
 .navbar-default .nav li a:hover,
@@ -353,11 +357,11 @@ header {
     text-align: center;
     color: rgba(255, 255, 255, 0.90);
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/_2018_pages/images/floripa-head.jpg');
+    background-image: url('{{ site.baseurl }}/_2019_pages/images/floripa-geral.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
-    background-color: rgba(0, 0 , 0, 0.5);
+    background-color: rgba(0, 0 , 0, 0.8);
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
@@ -411,7 +415,7 @@ header .intro-text .intro-heading {
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 aside.clients h2,
@@ -432,7 +436,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 100px 0;
     }
 }
 
