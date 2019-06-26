@@ -4,5 +4,6 @@ _site/
 # travis-ci files
 .bundle/
 vendor/
+Gemfile.lock
 .DS_Store
 /.idea
