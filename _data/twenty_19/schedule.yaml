@@ -1,0 +1,251 @@
+- time: "08:00"
+  event:
+    title: "Credenciamento"
+
+- time: "08:45"
+  event:
+    title: "Abertura"
+
+- time: "09:00"
+  keynote:
+    id: "keynote-ceci-fernandes"
+    title: "Práticas ágeis para arquitetura evolutiva"
+    name: "Ceci Fernandes"
+    bio: >
+        <b>Ceci Fernandes</b><br/>
+        Ceci é tech manager no Nubank, board member na Agile Alliance Brazil e comumente encontrada coaching pessoas e times, codando, facilitando reuniões, em eventos da comunidade, ou tomando uma boa taça de vinho.
+    img: /_2019_pages/speakers/ceci-fernandes.jpg
+    confirmed: true
+
+- time: "10:00"
+  event:
+    title: "Coffee break"
+
+- time: "10:30"
+  speaker_1:
+    id: "fabio-micheletti"
+    title: "STATIK e o Kanban estavel em uma Companhia que cresce exponencialmente"
+    name: "Fabio de Oliveira Gouveia Micheletti"
+    description: >
+        Como o STATIK ajudou o Agil ser implantando dentro de nossa companhia, e como se mantem estavel, mesmo estando em constante crescimento.<br/>
+        Quais as metricas que estamos utilizando e como estamos mapeando para garantir que tudo tenha um norte, e todos estejam juntos na mesma empreitada.
+    bio: >
+        <b>Fabio de Oliveira Gouveia Micheletti</b><br/>
+        Em breve!
+    #img: /_2019_pages/speakers/fabio-micheletti.jpg
+    confirmed: true
+  speaker_2:
+    id: "guilherme-hayashi"
+    title: "Transformação ágil: porque métricas são importantes para os Squads?"
+    name: "Guilherme Yuzo Hayashi"
+    description: >
+        A Cheesecake Labs é uma software house que trabalha com muitos projetos nacionais e internacionais e que recentemente passou por uma transformação ágil migrando sua estrutura organizacional para times (Squads). Minha proposta é contar um pouco dessa trajetória e mostrar quais as ações que fizemos para criar times autônomos com foco no resultado. Acredito que a palestra é relevante, pois normalmente esse processo de transformação traz perda significativa no faturamento, mas obtivemos um resultado contrário com um ganho de 30% em relação ao quarter anterior.
+    bio: >
+        <b>Guilherme Yuzo Hayashi</b><br/>
+        Em breve!
+    #img: /_2019_pages/speakers/guilherme-hayashi.jpg
+    confirmed: true
+
+- time: "11:10"
+  speaker_1:
+    id: "caco"
+    title: "Como apliquei limites para equilibrar minha vida"
+    name: "Cleiton Mafra (Caco)"
+    description: >
+        A técnica de limitar o trabalho em progresso (WIP) é bastante utilizada para equilibrar o ritmo de trabalho de uma equipe, mas você já pensou em aplicar isso na sua vida pessoal?<br/>
+        Em 2015 e 2017 eu quase cheguei ao burnout (colapso), busquei a ajuda para entender o que estava me prejudicando e descobri que eu me comprometo com coisas demais.<br/>
+        Na busca por trabalhar em alta performance, eu sempre deixava de lado minha vida pessoal.<br/>
+        Para lidar com isso eu estabeleci alguns limites e me ajudou muito, consegui continuar em alta performance e ter uma vida mais equilibrada, e desta forma foi mais fácil dizer não que não era prioridade, sem sofrer.<br/>
+        Vou te contar como foi o processo de descoberta, como apliquei essa técnica na minha vida e fiz com que o ano de 2018 fosse incrível.
+    bio: >
+        <b>Cleiton Mafra (Caco)</b></br>
+        Em breve!
+    #img: /_2019_pages/speakers/caco.jpg
+    confirmed: true
+  speaker_2:
+    id: "helal-cabral"
+    title: "\"É só mais isso, prometo [Em Homologação].\", Entenda melhor os impactos disso no seu projeto"
+    name: "Helal Ferrari Cabral"
+    description: >
+        É preciso entender que qualquer adição de critérios dentro de uma demanda que já passou pela fase de comprometimento, irá comprometer sua qualidade, desestimular a equipe e gerará um grande ruído no projeto e que muitas vezes tudo isso acontece de forma implícita e só é percebido quando já gerou um impacto explícito. Essa palestra visa apresentar os impactos que esse tipo decisão trará e também mostrar como podemos tentar convencer o cliente a criar novas demandas para esse tipo de situação.
+    bio: >
+        <b>Helal Ferrari Cabral</b><br/>
+        Em breve!
+    #img: /_2019_pages/speakers/helal-cabral.jpg
+    confirmed: false
+
+- time: "11:50"
+  speaker_1:
+    id: "luiz-henrique-guerra"
+    title: "Não abandone suas políticas de fluxo"
+    name: "Luiz Henrique Guerra"
+    description: >
+        Quem nunca ouviu (ou até mesmo disse) algo do tipo "Não temos condições de manter essa política enquanto a pressão estiver tão alta"? O fato de eu ter presenciado tantas vezes esse tipo de argumento é o que me traz aqui para explicar porque ele não faz sentido e porque abandonar as políticas de fluxo em determinadas circunstâncias é praticamente o mesmo que não tê-las.
+    bio: >
+        <b>Luiz Henrique Guerra</b><br/>
+        Em breve!
+    confirmed: true
+  speaker_2:
+    id: "juliemar-berri"
+    title: "Métricas de código, Não é micro gestão"
+    name: "Juliemar Berri"
+    description: >
+        No Kanban temos várias métricas que nos auxiliam na previsibilidade e tomada de decisão. Nesta talk apresento como as métricas de código podem auxiliar a identificar oportunidades de alavancar a performance do time e fazer ajustes finos que as métricas do kanban não são capazes trazer.   
+    bio: >
+        <b>Juliemar Berri</b><br/>
+        Em breve!
+    #img: /_2019_pages/speakers/juliemar-berri.jpg
+    confirmed: false
+
+- time: "12:30"
+  event:
+    title: "Almoço"
+
+- time: "14:00"
+  speaker_1:
+    id: "melina-deraldo"
+    title: "Pareando e a Coragem de ser Imperfeito"
+    name: "Melina Deraldo"
+    description: >
+        Desde o surgimento do XP a utilizando do pareamento é utilizado e muitas vezes com algumas controvérsias, com alguns anos de experiência percebi que muitas vezes o que impede o pareamento é o medo da imperfeição. Nessa palestra quero trazer um diálogo entre o pareamento e a coragem de ser imperfeito da Brené Brown.
+    bio: >
+        <b>Melina Deraldo</b><br/>
+        Em breve!
+    #img: /_2019_pages/speakers/melina-deraldo.jpg
+    confirmed: false
+  speaker_2:
+    id: "coaracy-silva"
+    title: "Do Voo Cego a Gestão do Fluxo - Uma jornada rumo a eficácia"
+    name: "Coaracy Silva"
+    description: >
+        Organizações não mudam de uma hora para outra, elas evoluem.<br/>
+        Os novos desafios exigem mudanças nos modelos de gestão, no contexto de transformação novas formas de organizar o trabalho estão no centro das discussões. <br/>
+        Grandes mudanças são traumáticas, então qual é o caminho?<br/>
+        Vou apresentar as experiências de evolução nessa jornada rumo a gestão eficaz (acertos e falhas), unindo objetivos e ações, mantendo a atenção em ter "fluxo mais equilibrado possível".<br/>
+        Mudar o Status Quo, Métricas e Indicadores, Atos de Liderança e outras variáveis envolvidas estarão nessa palestra que pretende ser uma janela aberta sobre ideias evolucionárias para sua organização.<br/>
+        Vou relatar as experiências dos últimos 3 anos trabalhando na evolução das praticas Lean Agile na Senior Sistemas.<br/>
+        Será uma narrativa com exemplos reais de acertos e falhas de como está sendo essa jornada rumo a novas ideias de gestão do fluxo, usando conceitos de teoria das filas, análise de ambientes complexos, modelos de indicadores probabilísticos, gestão da era do conhecimento e outras...
+    bio: >
+        <b>Coaracy Silva</b><br/>
+        O meu objetivo é ajudar as pessoas a estarem engajadas e atingirem resultados que agreguem valor a suas vidas, sociedade e organizações.<br/>
+        Com mais de 20 anos de experiência com gestão organizacional, trabalho na transformação Lean Agile sendo o facilitador na mudança de paradigmas<br/>
+        Atuo como professor de pós graduação em gestão empresarial e gerenciamento de projetos. Como palestrante contribuindo com experiências e percepções sobre os desafios atuais, ajudando na evolução de profissionais e organizações.<br/>
+        Empresa: Senior Sistemas<br/>
+        <a href="https://www.facebook.com/coaracy.junior" target="_blank">Facebook</a><br/>
+        <a href="https://www.linkedin.com/in/coaracy-junior/" target="_blank">Linkedin</a>
+    img: /_2019_pages/speakers/coaracy-silva.jpg
+    confirmed: true
+
+- time: "14:40"
+  speaker_1:
+    id: "rafael-caceres"
+    title: "Como a liderança descentralizada nos tornou mais efetivos?"
+    name: "Rafael Caceres"
+    description: >
+        Em um mundo em mudança constante a lei da evolução, que dita a sobrevivência do mais apto, estará cada vez mais presente no competitivo mundo corporativo moderno. Adapte-se ou morra. Don Reinertsen no seu livro que pode ser considerado um manual de sobrevivência das empresas contemporâneas, nos ensina que o caminho para a adaptação é a descentralização do processo de decisão, possível através da distribuição da informação e encorajando atos de liderança em todos os níveis. Nesta apresentação, Rafael Cáceres mostrará como em 2 anos transformamos a Taller em uma organização que aprende, evoluindo em direção a uma melhor adaptação na selva competitiva do século XXI.
+    bio: >
+        <b>Rafael Caceres</b><br/>
+        Em breve!
+    #img: /_2019_pages/speakers/rafael-caceres.jpg
+    confirmed: false
+  speaker_2:
+    id: "leonardo-varela"
+    title: "Quando o contexto muda mais rápido do que o Sprint"
+    name: "Leonardo Nestor Varela"
+    description: >
+        Muitas equipes olham com desconfiança as metodologias ágeis (e em particular Scrum) por causa do tempo do Sprint. Quando o contexto muda com muita frequência as equipes encontram-se com o dilema de fazer sprints menores, mas com overhead de cerimônias, ou desestimar o planejamento, fazendo que a metodologia deixe de ser útil. Ao longo da minha carreira vi muitas equipes não conseguirem ter foco pela falta de metodologia de trabalho, mas que resistiam-se aplicar um framework ágil por "medo" a rigidez do planejamento. Nessa apresentação gostaria compartilhar minha experiência dentro de Mercado Livre e como fomos evoluindo até conseguir uma forma de trabalho adaptada a contextos onde as prioridades mudam com altíssima frequência, sem perder de vista os princípios que persegue Scrum.<br/>
+        Learning outcomes:<br/>
+        - Solução pratica ao problema das urgências dentro do Sprint<br/>
+        - Exemplo de uso de métricas de equipe para planejamentos<br/>
+        - Experiências que deram errado e o análise de porque isso aconteceu<br/>
+        - Dinâmica da planning para estimações rápidas
+    bio: >
+        <b>Leonardo Nestor Varela</b><br/>
+        Desenvolvedor desde os 12 anos de idade, com 26 dirigiu uma startup, palestrou em vários países de América do Sul, foi docente universitário numa das mais importante universidades da Argentina e participou de equipe Kaizen com líderes de empresas de primeiro nível. Tem Especialização em PMI, conhecimento que foi de utilidade, mas que acabou deixando um pouco de lado quando conheceu as metodologias ágeis. A partir daí teve sua formação como Scrum Master e capacitação em arquiteturas ágeis. Com 19 anos de experiência em TI, hoje está perto dos 4 anos liderando equipes de desenvolvimento no Mercado Livre, dos quais os últimos meses foram em Floripa sendo responsável pelos projetos de compliance fiscal de Mercado Envios no Brasil e Argentina.<br/>
+        Empresa: Mercado Livre<br/>
+        <a href="https://www.linkedin.com/in/leonardovarela/" target="_blank">Linkedin</a>
+    img: /_2019_pages/speakers/leonardo-varela.jpeg
+    confirmed: true
+
+- time: "15:20"
+  speaker_1:
+    id: "dionei-piazza"
+    title: "Desafios e Soluções de um Agile Coach ao Expandir os Horizontes de uma Empresa"
+    name: "Dionei Piazza"
+    description: >
+        Depois de 30 anos entregando Sistemas e Automação para as indústrias têxteis, uma organização entende que precisa mudar! Como o Agile Coach pode abordar esta transformação Ágil quando a cultura da empresa é orientada apenas por "realizar"?<br/>
+        Neste talk, além dos erros, acertos e aprendizados, compartilharei abordagens, técnicas e ferramentas que estou utilizando para alinhar e atender as expectativas, formar times, buscar a melhoria dos processos, garantir a qualidade das entregas, além, é claro, de ajudar os clientes em seus negócios.
+    bio: >
+        <b>Dionei Piazza</b><br/>
+        Envolvido com tecnologia desde 1997, hoje, atuo como Enterprise Agile Coach na Multitherm Sistemas e Automação. Sou um entusiasta neste mundo do conhecimento no qual respiro Lean, Agile, pessoas, tecnologia, projetos e música. Também sou membro do PMI-SC e faço parte do grupo de organizadores do Agile Beer.<br/>
+        Estou envolvido com palestras desde 2017. Sou palestrante em eventos locais da comunidade Ágil.<br/>
+        Empresa: Multitherm Sistemas e Automação<br/>
+        <a href="https://www.linkedin.com/in/dioneipiazza/" target="_blank">Linkedin</a><br/>
+        <a href="https://twitter.com/Dionei_Piazza" target="_blank">Twitter</a><br/>
+        <a href="https://www.facebook.com/dioneipiazza" target="_blank">Facebook</a><br/>
+        <a href="https://www.instagram.com/dionei_piazza/" target="_blank">Instagram</a><br/>
+        <a href="https://www.meetup.com/Agile-Beer-Blumenau/" target="_blank">Agile Beer Blumenau Meetup</a>
+    img: /_2019_pages/speakers/dionei-piazza.jpg
+    confirmed: true
+  speaker_2:
+    id: "priscila-elpo"
+    title: "Precisamos falar de felicidade no trabalho"
+    name: "Priscila Soares Elpo"
+    description: >
+        A agilidade dentro das organizações tende a aproximar a cultura e o ambiente em algo propício para o desenvolvimento da felicidade dos seus colaboradores e, consequentemente, mantê-los motivados e felizes. Isso porque a agilidade tende a permitir que as pessoas tenham uma autogestão, maior autonomia e abre caminhos para obterem um reconhecimento melhor pelos seus feitos.<br/>
+        Entretanto, a agilidade não é por si só suficiente para se ter esse ambiente e essa cultura, bem como ter os seus colaboradores realmente felizes.<br/>
+        As pessoas estão passando cada vez mais tempo de suas vidas no trabalho ou em atividades ligadas a sua carreira. Por consequência, o trabalho se tornou algo essencial na vida das mesmas, sendo o local em que buscam encontrar a sua felicidade e que por vezes acabam se frustrando.<br/>
+        Como as empresas de tecnologia estão inseridas em um mercado que está em constante mudança, exigindo das mesmas adaptações recorrentes (parte do que prega a própria metodologia ágil), os seus funcionários podem se ver constantemente infelizes e desmotivados, havendo uma grande rotatividade nessas organizações.<br/>
+        Para manter os funcionários é necessário compreendê-los, compreender o que os faz felizes, bem como entender o que os motiva.<br/>
+        A felicidade no trabalho é um tema  importante e ainda pouco comentado. O objetivo dessa palestra é trazer a tona essa temática e auxiliar empresas e colaboradores a entenderem como estarem alinhados quanto a isso. Em específico, as empresas entenderem o que podem fazer para buscar essa felicidade dos seus colaboradores, retendo-os e os colaboradores entenderem melhor seus próprios objetivos e propósitos, bem como, compreenderem que as vezes basta uma mudança de perspectiva para ver o trabalho com outros olhos.<br/>
+        Para isso, se buscará nessa palestra, trazer a luz alguns conceitos sobre felicidade, motivação e trabalho, bem como mostrando o que cada lado poderá fazer para ter uma relação mais feliz entre ambos.
+    bio: >
+        <b>Priscila Soares Elpo</b><br/>
+        Em breve!
+    #img: /_2019_pages/speakers/priscila-elpo.jpg
+    confirmed: true
+
+- time: "16:00"
+  event:
+    title: "Coffee break"
+
+- time: "16:30"
+  speaker_1:
+    id: "helal-cabral"
+    title: "Pare de estimar com sua equipe, use as métricas"
+    name: "Helal Ferrari Cabral"
+    description: >
+        O trabalho da equipe é produzir, a responsabilidade de estimativa e definir os prazos das demandas deve ser da gestão, não há motivos verdadeiros para se pegar um chute se podemos olhar para os números dos projetos e levantar dados que podem fornecer isso muito mais rapidamente e sem viés. Dessa forma conseguimos tirar uma das principais preocupações de uma equipe.
+    bio: >
+        <b>Helal Ferrari Cabral</b><br/>
+        Em breve!
+    #img: /_2019_pages/speakers/helal-cabral.jpg
+    confirmed: false
+  speaker_2:
+    id: "barbara-hartmann-gabriel-machado"
+    title: "Soluções de arquitetura para integração com terceiros: o caso da NuConta"
+    name: "Bárbara Hartmann e Gabriel Machado"
+    description: >
+        A NuConta é um produto construído com uma arquitetura de microsserviços. Para prover funcionalidades para nossos clientes, precisamos fazer integração com diversos terceiros. Nessa palestra, explicamos a solução adotada pela NuConta para integrar com esses terceiros de forma resiliente, possibilitando uma maior adaptabilidade dos nossos sistemas a problemas externos. Vamos contar nossa experiência com sistema de rollouts, monitoramento extensivo e nossos planos futuros.
+    bio: >
+        <b>Bárbara Hartmann</b><br/>
+        É engenheira de software no Nubank e foi consultora na ThoughWorks.<br/><br/>
+        <b>Gabriel Machado</b><br/>
+        Engenheiro de Software no Nubank com experiência em desenvolvimento em diferentes áreas. Atuou como desenvolvedor na Fundação Mozilla. Apaixonado por Open Software e cerveja.
+    #img: /_2019_pages/speakers/barbara-hartmann-gabriel-machado.jpg
+    confirmed: true
+
+- time: "17:10"
+  keynote:
+    id: "keynote-daniel-wildt"
+    title: "A confirmar"
+    name: "Daniel Wildt"
+    bio: >
+        <b>Daniel Wildt</b><br/>
+        Trabalha com empresas e times ajudando na adoção de metodologias ágeis e melhoria das técnicas de engenharia de software. Sempre em busca de simplicidade e aprendizado. Ajudo pessoas a se tornarem melhores profissionais, equipes a crescerem através de melhoria contínua e produtos/serviços a serem formados. Certified SCRUM Master (CSM) pela SCRUM Alliance.
+    img: /_2019_pages/speakers/daniel-wildt.jpg
+    confirmed: true
+
+- time : "18:10"
+  event:
+    title: "Encerramento"
