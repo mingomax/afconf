@@ -13,7 +13,13 @@
     name: "Ceci Fernandes"
     bio: >
         <b>Ceci Fernandes</b><br/>
-        Ceci é tech manager no Nubank, board member na Agile Alliance Brazil e comumente encontrada coaching pessoas e times, codando, facilitando reuniões, em eventos da comunidade, ou tomando uma boa taça de vinho.
+        Ceci é tech manager no <a href="https://nubank.com.br" target="_blank">Nubank</a>, board member na <a href="https://www.agilealliance.org/agilealliancebrazil/" target="_blank">Agile Alliance Brazil</a> e comumente encontrada coaching pessoas e times, codando, facilitando reuniões, em eventos da comunidade, ou tomando uma boa taça de vinho.<br/>
+        <br/>
+        <a href="http://cecifernandes.com" target="_blank">Website</a><br/>
+        <a href="https://www.instagram.com/agilececi/" target="_blank">Instagram</a><br/>
+        <a href="https://twitter.com/cecifernandes" target="_blank">Twitter</a><br/>
+        <a href="https://www.linkedin.com/in/cecifernandes/" target="_blank">LinkedIn</a><br/>
+        <a href="https://github.com/ceci" target="_blank">GitHub</a>
     img: /_2019_pages/speakers/ceci-fernandes.jpg
     confirmed: true
 
@@ -24,10 +30,10 @@
 - time: "10:30"
   speaker_1:
     id: "fabio-micheletti"
-    title: "STATIK e o Kanban estavel em uma Companhia que cresce exponencialmente"
+    title: "STATIK e o Kanban estável em uma companhia que cresce exponencialmente"
     name: "Fabio de Oliveira Gouveia Micheletti"
     description: >
-        Como o STATIK ajudou o Agil ser implantando dentro de nossa companhia, e como se mantem estavel, mesmo estando em constante crescimento.<br/>
+        Como o STATIK ajudou o Agil ser implantando dentro de nossa companhia, e como se mantem estável, mesmo estando em constante crescimento.<br/>
         Quais as metricas que estamos utilizando e como estamos mapeando para garantir que tudo tenha um norte, e todos estejam juntos na mesma empreitada.
     bio: >
         <b>Fabio de Oliveira Gouveia Micheletti</b><br/>
@@ -44,7 +50,7 @@
         <b>Guilherme Yuzo Hayashi</b><br/>
         Guilherme Yuzo Hayashi é Chief Project Officer (CPO) na Cheesecake Labs. Formado em Ciências da Computação pela faculdade UEM, desenvolveu dezenas de projetos nas áreas de Android, iOS, Backend e Frontend. Trazendo práticas atuais de gestão, design e inovação, vem transformando os sonhos de diversos parceiros em produtos com impacto global positivo. Fez parte de movimentos de implantação e transformação ágil em empresas e busca atualmente gerenciar times de alta performance que criem produtos com foco em usabilidade através de um workflow ágil e centrado no usuário. Professor do projeto social Mão Na Massa, busca melhorar o mundo através da tecnologia -- seu grande sonho e um dos seus propósitos de vida.<br/>
         <br/>
-        <a href="https://www.linkedin.com/in/guilherme-hayashi-15517363/" target="_blank">Linkedin</a>
+        <a href="https://www.linkedin.com/in/guilherme-hayashi-15517363/" target="_blank">LinkedIn</a>
     img: /_2019_pages/speakers/guilherme-hayashi.jpg
     confirmed: true
 
@@ -74,7 +80,7 @@
         <b>Helal Ferrari Cabral</b><br/>
         Em breve!
     #img: /_2019_pages/speakers/helal-cabral.jpg
-    confirmed: false
+    confirmed: true
 
 - time: "11:50"
   speaker_1:
@@ -98,7 +104,7 @@
         Juliemar Berri é o coordenador de plataformas da Resultados Digitais. Ele passou os últimos 10 anos construindo equipes de engenharia eficazes e recentemente está liderando equipes remotas distribuídas. Juliemar também é um membro ativo da comunidade de código aberto, onde como criador e mantenedor do #matirx uma ferramenta para equipes remotas, ocasionalmente ainda consegue codificar.<br/>
         Empresa: Resultados Digitais<br/>
         <br/>
-        <a href="https://www.linkedin.com/in/juliemarberri/" target="_blank">Linkedin</a><br/>
+        <a href="https://www.linkedin.com/in/juliemarberri/" target="_blank">LinkedIn</a><br/>
         <a href="https://medium.com/@juliemar.berri" target="_blank">Medium</a><br/>
         <a href="https://twitter.com/juliemarberri" target="_blank">Twitter</a><br/>
         <a href="https://www.facebook.com/juliemar.berri" target="_blank">Facebook</a><br/>
@@ -142,7 +148,8 @@
         Empresa: Senior Sistemas<br/>
         <br/>
         <a href="https://www.facebook.com/coaracy.junior" target="_blank">Facebook</a><br/>
-        <a href="https://www.linkedin.com/in/coaracy-junior/" target="_blank">Linkedin</a>
+        <a href="https://www.linkedin.com/in/coaracy-junior/" target="_blank">LinkedIn</a><br/>
+        <a href="https://www.instagram.com/juniorcoaracy/" target="_blank">Instagram</a>
     img: /_2019_pages/speakers/coaracy-silva.jpg
     confirmed: true
 
@@ -174,7 +181,7 @@
         Desenvolvedor desde os 12 anos de idade, com 26 dirigiu uma startup, palestrou em vários países de América do Sul, foi docente universitário numa das mais importante universidades da Argentina e participou de equipe Kaizen com líderes de empresas de primeiro nível. Tem Especialização em PMI, conhecimento que foi de utilidade, mas que acabou deixando um pouco de lado quando conheceu as metodologias ágeis. A partir daí teve sua formação como Scrum Master e capacitação em arquiteturas ágeis. Com 19 anos de experiência em TI, hoje está perto dos 4 anos liderando equipes de desenvolvimento no Mercado Livre, dos quais os últimos meses foram em Floripa sendo responsável pelos projetos de compliance fiscal de Mercado Envios no Brasil e Argentina.<br/>
         Empresa: Mercado Livre<br/>
         <br/>
-        <a href="https://www.linkedin.com/in/leonardovarela/" target="_blank">Linkedin</a>
+        <a href="https://www.linkedin.com/in/leonardovarela/" target="_blank">LinkedIn</a>
     img: /_2019_pages/speakers/leonardo-varela.jpeg
     confirmed: true
 
@@ -192,7 +199,7 @@
         Estou envolvido com palestras desde 2017. Sou palestrante em eventos locais da comunidade Ágil.<br/>
         Empresa: Multitherm Sistemas e Automação<br/>
         <br/>
-        <a href="https://www.linkedin.com/in/dioneipiazza/" target="_blank">Linkedin</a><br/>
+        <a href="https://www.linkedin.com/in/dioneipiazza/" target="_blank">LinkedIn</a><br/>
         <a href="https://twitter.com/Dionei_Piazza" target="_blank">Twitter</a><br/>
         <a href="https://www.facebook.com/dioneipiazza" target="_blank">Facebook</a><br/>
         <a href="https://www.instagram.com/dionei_piazza/" target="_blank">Instagram</a><br/>
@@ -232,7 +239,7 @@
         <b>Helal Ferrari Cabral</b><br/>
         Em breve!
     #img: /_2019_pages/speakers/helal-cabral.jpg
-    confirmed: false
+    confirmed: true
   speaker_2:
     id: "barbara-hartmann-gabriel-machado"
     title: "Soluções de arquitetura para integração com terceiros: o caso da NuConta"
@@ -250,11 +257,18 @@
 - time: "17:10"
   keynote:
     id: "keynote-daniel-wildt"
-    title: "A confirmar"
+    title: "Podemos voltar pra 2009?"
     name: "Daniel Wildt"
+    description: >
+        Tenho a cada dia buscado meus 3C: Cadência, Consistência e Consciência. E a cada dia penso que a falta de segurança psicológica e foco em resultado de negócio vem gerando muito ruído no assunto métodos ágeis. Estamos dando muita atenção para práticas e o que eu chamo de pirotecnia agile. Surgem dinâmicas, surgem manifestos, mas as nossas empresas seguem perdendo chances de melhorar resultados de negócio. Quero explorar o que estava acontecendo em 2009 e porque deveríamos voltar a trabalhar com o que estava forte naquela época.
     bio: >
         <b>Daniel Wildt</b><br/>
-        Trabalha com empresas e times ajudando na adoção de metodologias ágeis e melhoria das técnicas de engenharia de software. Sempre em busca de simplicidade e aprendizado. Ajudo pessoas a se tornarem melhores profissionais, equipes a crescerem através de melhoria contínua e produtos/serviços a serem formados. Certified SCRUM Master (CSM) pela SCRUM Alliance.
+        Profissional de Tecnologia, preocupado com desenvolvimento de produtos e serviços com equipes focadas em aprendizado, melhoria contínua e autonomia. Produz conteúdo em vídeo, áudio e texto sobre consciência de tempo, experiência de usuário, empreendedorismo e metodologias ágeis. Mentor na <a href="http://www.wildtech.com.br" target="_blank">Wildtech</a>, Blogger/Youtuber no <a href="http://danielwildt.com" target="_blank">danielwildt.com</a>, Conselheiro na <a href="https://www.umov.me" target="_blank">uMov.me</a>. Desde 2017 cuida de Tecnologia e P&D na <a href="https://www.zenvia.com" target="_blank">Zenvia</a>, envolvido com mensagens, conversas, bots, chatbots e muita tecnologia.<br/>
+        <br/>
+        <a href="https://www.linkedin.com/in/danielwildt/" target="_blank">LinkedIn</a><br/>
+        <a href="https://www.instagram.com/dwildt/" target="_blank">Instagram</a><br/>
+        <a href="https://twitter.com/dwildt" target="_blank">Twitter</a><br/>
+        <a href="http://youtube.com/danielwildt" target="_blank">YouTube</a>
     img: /_2019_pages/speakers/daniel-wildt.jpg
     confirmed: true
 
