@@ -118,17 +118,6 @@
 
 - time: "14:00"
   speaker_1:
-    id: "melina-deraldo"
-    title: "Pareando e a Coragem de ser Imperfeito"
-    name: "Melina Deraldo"
-    description: >
-        Desde o surgimento do XP a utilizando do pareamento é utilizado e muitas vezes com algumas controvérsias, com alguns anos de experiência percebi que muitas vezes o que impede o pareamento é o medo da imperfeição. Nessa palestra quero trazer um diálogo entre o pareamento e a coragem de ser imperfeito da Brené Brown.
-    bio: >
-        <b>Melina Deraldo</b><br/>
-        Em breve!
-    #img: /_2019_pages/speakers/melina-deraldo.jpg
-    confirmed: true
-  speaker_2:
     id: "coaracy-silva"
     title: "Do Voo Cego a Gestão do Fluxo - Uma jornada rumo a eficácia"
     name: "Coaracy Silva"
@@ -152,20 +141,20 @@
         <a href="https://www.instagram.com/juniorcoaracy/" target="_blank">Instagram</a>
     img: /_2019_pages/speakers/coaracy-silva.jpg
     confirmed: true
+  speaker_2:
+    id: "melina-deraldo"
+    title: "Pareando e a Coragem de ser Imperfeito"
+    name: "Melina Deraldo"
+    description: >
+        Desde o surgimento do XP a utilizando do pareamento é utilizado e muitas vezes com algumas controvérsias, com alguns anos de experiência percebi que muitas vezes o que impede o pareamento é o medo da imperfeição. Nessa palestra quero trazer um diálogo entre o pareamento e a coragem de ser imperfeito da Brené Brown.
+    bio: >
+        <b>Melina Deraldo</b><br/>
+        Em breve!
+    #img: /_2019_pages/speakers/melina-deraldo.jpg
+    confirmed: true
 
 - time: "14:40"
   speaker_1:
-    id: "rafael-caceres"
-    title: "Como a liderança descentralizada nos tornou mais efetivos?"
-    name: "Rafael Caceres"
-    description: >
-        Em um mundo em mudança constante a lei da evolução, que dita a sobrevivência do mais apto, estará cada vez mais presente no competitivo mundo corporativo moderno. Adapte-se ou morra. Don Reinertsen no seu livro que pode ser considerado um manual de sobrevivência das empresas contemporâneas, nos ensina que o caminho para a adaptação é a descentralização do processo de decisão, possível através da distribuição da informação e encorajando atos de liderança em todos os níveis. Nesta apresentação, Rafael Cáceres mostrará como em 2 anos transformamos a Taller em uma organização que aprende, evoluindo em direção a uma melhor adaptação na selva competitiva do século XXI.
-    bio: >
-        <b>Rafael Caceres</b><br/>
-        Em breve!
-    #img: /_2019_pages/speakers/rafael-caceres.jpg
-    confirmed: false
-  speaker_2:
     id: "leonardo-varela"
     title: "Quando o contexto muda mais rápido do que o Sprint"
     name: "Leonardo Nestor Varela"
@@ -184,6 +173,17 @@
         <a href="https://www.linkedin.com/in/leonardovarela/" target="_blank">LinkedIn</a>
     img: /_2019_pages/speakers/leonardo-varela.jpeg
     confirmed: true
+  speaker_2:
+    id: "rafael-caceres"
+    title: "Como a liderança descentralizada nos tornou mais efetivos?"
+    name: "Rafael Caceres"
+    description: >
+        Em um mundo em mudança constante a lei da evolução, que dita a sobrevivência do mais apto, estará cada vez mais presente no competitivo mundo corporativo moderno. Adapte-se ou morra. Don Reinertsen no seu livro que pode ser considerado um manual de sobrevivência das empresas contemporâneas, nos ensina que o caminho para a adaptação é a descentralização do processo de decisão, possível através da distribuição da informação e encorajando atos de liderança em todos os níveis. Nesta apresentação, Rafael Cáceres mostrará como em 2 anos transformamos a Taller em uma organização que aprende, evoluindo em direção a uma melhor adaptação na selva competitiva do século XXI.
+    bio: >
+        <b>Rafael Caceres</b><br/>
+        Em breve!
+    #img: /_2019_pages/speakers/rafael-caceres.jpg
+    confirmed: false
 
 - time: "15:20"
   speaker_1:
