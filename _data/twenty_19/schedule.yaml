@@ -127,7 +127,7 @@
         <b>Melina Deraldo</b><br/>
         Em breve!
     #img: /_2019_pages/speakers/melina-deraldo.jpg
-    confirmed: false
+    confirmed: true
   speaker_2:
     id: "coaracy-silva"
     title: "Do Voo Cego a Gestão do Fluxo - Uma jornada rumo a eficácia"
