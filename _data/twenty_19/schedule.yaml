@@ -37,8 +37,13 @@
         Quais as metricas que estamos utilizando e como estamos mapeando para garantir que tudo tenha um norte, e todos estejam juntos na mesma empreitada.
     bio: >
         <b>Fabio de Oliveira Gouveia Micheletti</b><br/>
-        Em breve!
-    #img: /_2019_pages/speakers/fabio-micheletti.jpg
+        Entusiasta ágil, trabalha com desenvolvimento de software a mais de 10 anos.<br/>
+        Focado em alta qualidade, tem experiência com ágil desde 2010, atua como Agile Coach ajudando as empresas a modernizarem a gestão com métodos ágeis como Scrum e Kanban.<br/>
+        Empresa: Gympass<br/>
+        <br/>
+        <a href="https://www.linkedin.com/in/f%C3%A1bio-micheletti-359a8ab1/">LinkedIn</a><br/>
+        <a href="https://instagram.com/fabiomicheletti">Instagram</a>
+    img: /_2019_pages/speakers/fabio-micheletti.jpg
     confirmed: true
   speaker_2:
     id: "guilherme-hayashi"
