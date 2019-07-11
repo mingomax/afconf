@@ -37,8 +37,13 @@
         Quais as metricas que estamos utilizando e como estamos mapeando para garantir que tudo tenha um norte, e todos estejam juntos na mesma empreitada.
     bio: >
         <b>Fabio de Oliveira Gouveia Micheletti</b><br/>
-        Em breve!
-    #img: /_2019_pages/speakers/fabio-micheletti.jpg
+        Entusiasta ágil, trabalha com desenvolvimento de software a mais de 10 anos.<br/>
+        Focado em alta qualidade, tem experiência com ágil desde 2010, atua como Agile Coach ajudando as empresas a modernizarem a gestão com métodos ágeis como Scrum e Kanban.<br/>
+        Empresa: Gympass<br/>
+        <br/>
+        <a href="https://www.linkedin.com/in/f%C3%A1bio-micheletti-359a8ab1/">LinkedIn</a><br/>
+        <a href="https://instagram.com/fabiomicheletti">Instagram</a>
+    img: /_2019_pages/speakers/fabio-micheletti.jpg
     confirmed: true
   speaker_2:
     id: "guilherme-hayashi"
@@ -66,9 +71,17 @@
         Para lidar com isso eu estabeleci alguns limites e me ajudou muito, consegui continuar em alta performance e ter uma vida mais equilibrada, e desta forma foi mais fácil dizer não que não era prioridade, sem sofrer.<br/>
         Vou te contar como foi o processo de descoberta, como apliquei essa técnica na minha vida e fiz com que o ano de 2018 fosse incrível.
     bio: >
-        <b>Cleiton Mafra (Caco)</b></br>
-        Em breve!
-    #img: /_2019_pages/speakers/caco.jpg
+        <b>Cleiton Mafra (Caco)</b><br/>
+        Caco, Enterprise Agile Coach na Resultados Digitais, atua junto aos times de Engenharia e Produto e conectando com a  estratégia da empresa. A Resultados Digitais (RDStation) tem um cenário de alta tecnologia e um crescimento acelerado, além disso, está entre as maiores empresas de marketing Digital do Mundo e está presente em mais de 20 países<br/>
+        Especialista no método Kanban, já treinou mais de 600 pessoas no Método Kanban e ajudou mais de 80 times a adotar o método.<br/>
+        Como Agile Coach ajuda empresas de tecnologia a terem sucesso, resultados de longo prazo e equipes de alta performance.<br/>
+        Empresa: Resultados Digitais<br/>
+        <br/>
+        <a href="https://www.linkedin.com/in/cleitonmafra/" target="_blank">LinkedIn</a><br/>
+        <a href="https://medium.com/@cleitonmafra" target="_blank">Medium</a><br/>
+        <a href="https://www.instagram.com/cacoxp/" target="_blank">Instagram</a><br/>
+        <a href="https://twitter.com/cleitonmafra" target="_blank">Twitter</a>
+    img: /_2019_pages/speakers/cleiton-mafra.jpg
     confirmed: true
   speaker_2:
     id: "helal-cabral"
@@ -83,7 +96,8 @@
         <br/>
         <a href="https://pt-br.facebook.com/helal.ferrari" target="_blank">Facebok</a><br/>
         <a href="https://twitter.com/helalferrari" target="_blank">Twitter<br/>
-        <a href="https://br.linkedin.com/in/helalferraricabral" target="_blank">LinkedIn</a>
+        <a href="https://br.linkedin.com/in/helalferraricabral" target="_blank">LinkedIn</a><br/>
+        <a href="https://www.instagram.com/helalferrari/" target="_blank">Instagram</a>
     #img: /_2019_pages/speakers/helal-cabral.jpg
     confirmed: true
 
@@ -97,6 +111,7 @@
     bio: >
         <b>Luiz Henrique Guerra</b><br/>
         Em breve!
+    #img: /_2019_pages/speakers/luiz-guerra.jpg
     confirmed: true
   speaker_2:
     id: "juliemar-berri"
@@ -179,16 +194,22 @@
     img: /_2019_pages/speakers/leonardo-varela.jpeg
     confirmed: true
   speaker_2:
-    id: "rafael-caceres"
-    title: "Como a liderança descentralizada nos tornou mais efetivos?"
-    name: "Rafael Caceres"
+    id: "adriano-ramos"
+    title: "O elefante e o guepardo: a transformação ágil de uma organização grande e tradicional"
+    name: "Adriano Arruda Ramos"
     description: >
-        Em um mundo em mudança constante a lei da evolução, que dita a sobrevivência do mais apto, estará cada vez mais presente no competitivo mundo corporativo moderno. Adapte-se ou morra. Don Reinertsen no seu livro que pode ser considerado um manual de sobrevivência das empresas contemporâneas, nos ensina que o caminho para a adaptação é a descentralização do processo de decisão, possível através da distribuição da informação e encorajando atos de liderança em todos os níveis. Nesta apresentação, Rafael Cáceres mostrará como em 2 anos transformamos a Taller em uma organização que aprende, evoluindo em direção a uma melhor adaptação na selva competitiva do século XXI.
+        Apresentar minha vivência dentro do Programa de Transformação Digital em um grande banco público (Caixa Econômica Federal), onde participei de equipes atuando com metodologias ágeis entre 2017 e 2019 - uma espécie de adaptação do modelo Spotify convivendo ao lado de estruturas e modelos altamente hierarquizados e tradicionais.
     bio: >
-        <b>Rafael Caceres</b><br/>
-        Em breve!
-    #img: /_2019_pages/speakers/rafael-caceres.jpg
-    confirmed: false
+        <b>Adriano Arruda Ramos</b><br/>
+        Bacharel em História e Especialista em Economia Financeira pela Unicamp, Tecnólogo em Análise e Desenvolvimento de Sistemas e Especialista em Desenvolvimento Web pela Anhanguera, além de uma graduação em Engenharia Elétrica pela USP não concluída.<br/>
+        Com formação interdisciplinar, valoriza muito o trabalho em equipe e a aprendizagem contínua. Desde 2003 trabalha na Caixa, já atuou em diversas áreas da empresa. Entre 2017 e 2019 participou do Programa de Transformação Digital na Caixa, em times no formato de squads como desenvolvedor. Atualmente é analista/desenvolvedor na área de FGTS em Florianópolis, além de aprendiz e entusiasta de metodologias ágeis e ciência de dados.<br/>
+        Empresa: Caixa Econômica Federal<br/>
+        <br/>
+        <a href="https://www.linkedin.com/in/adrianoarrudaramos/" target="_blank">LinkedIn</a><br/>
+        <a href="https://medium.com/@adrianoarrudaramos" target="_blank">Medium</a><br/>
+        <a href="https://github.com/adrianoarrudaramos" target="_blank">GitHub</a>
+    img: /_2019_pages/speakers/adriano-ramos.png
+    confirmed: true
 
 - time: "15:20"
   speaker_1:
@@ -251,7 +272,8 @@
         <br/>
         <a href="https://pt-br.facebook.com/helal.ferrari" target="_blank">Facebok</a><br/>
         <a href="https://twitter.com/helalferrari" target="_blank">Twitter<br/>
-        <a href="https://br.linkedin.com/in/helalferraricabral" target="_blank">LinkedIn</a>
+        <a href="https://br.linkedin.com/in/helalferraricabral" target="_blank">LinkedIn</a><br/>
+        <a href="https://www.instagram.com/helalferrari/" target="_blank">Instagram</a>
     #img: /_2019_pages/speakers/helal-cabral.jpg
     confirmed: true
   speaker_2:
