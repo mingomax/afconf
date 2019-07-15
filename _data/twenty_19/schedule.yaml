@@ -111,7 +111,13 @@
     bio: >
         <b>Luiz Henrique Guerra</b><br/>
         Em breve!
-    #img: /_2019_pages/speakers/luiz-guerra.jpg
+    #Empresa: Taller<br/>
+    #<br/>
+    #<a href="https://github.com/lhguerra" target="_blank">GitHub</a><br/>
+    #<a href="https://www.linkedin.com/in/luizguerra/" target="_blank">LinkedIn</a><br/>
+    #<a href="https://twitter.com/guerrahluiz" target="_blank">Twitter</a><br/>
+    #<a href="https://www.instagram.com/luizhguerra/" target="_blank">Instagram</a>
+    img: /_2019_pages/speakers/luiz-guerra.jpg
     confirmed: true
   speaker_2:
     id: "juliemar-berri"
