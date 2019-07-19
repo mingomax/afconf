@@ -92,14 +92,14 @@
         É preciso entender que qualquer adição de critérios dentro de uma demanda que já passou pela fase de comprometimento, irá comprometer sua qualidade, desestimular a equipe e gerará um grande ruído no projeto e que muitas vezes tudo isso acontece de forma implícita e só é percebido quando já gerou um impacto explícito. Essa palestra visa apresentar os impactos que esse tipo decisão trará e também mostrar como podemos tentar convencer o cliente a criar novas demandas para esse tipo de situação.
     bio: >
         <b>Helal Ferrari Cabral</b><br/>
-        Analsita de Negócios por paixão, antes de me torná-lo, fiz boa parte da minha carreira profissional como desenvolvedor Web e por conta do que eu percebia das coisas que acontecia na gestão / análise, achei que poderia contribuir muito mais nesse meio! Aqui estou a quase 5 anos :-)<br/>
+        Analista de Negócios por paixão, antes de me torná-lo, fiz boa parte da minha carreira profissional como desenvolvedor Web e por conta do que eu percebia das coisas que acontecia na gestão / análise, achei que poderia contribuir muito mais nesse meio! Aqui estou a quase 5 anos :-)<br/>
         Empresa: Taller Digital Business<br/>
         <br/>
         <a href="https://pt-br.facebook.com/helal.ferrari" target="_blank">Facebok</a><br/>
         <a href="https://twitter.com/helalferrari" target="_blank">Twitter<br/>
         <a href="https://br.linkedin.com/in/helalferraricabral" target="_blank">LinkedIn</a><br/>
         <a href="https://www.instagram.com/helalferrari/" target="_blank">Instagram</a>
-    #img: /_2019_pages/speakers/helal-cabral.jpg
+    img: /_2019_pages/speakers/helal-cabral.jpg
     confirmed: true
 
 - time: "11:50"
@@ -277,14 +277,14 @@
         O trabalho da equipe é produzir, a responsabilidade de estimativa e definir os prazos das demandas deve ser da gestão, não há motivos verdadeiros para se pegar um chute se podemos olhar para os números dos projetos e levantar dados que podem fornecer isso muito mais rapidamente e sem viés. Dessa forma conseguimos tirar uma das principais preocupações de uma equipe.
     bio: >
         <b>Helal Ferrari Cabral</b><br/>
-        Analsita de Negócios por paixão, antes de me torná-lo, fiz boa parte da minha carreira profissional como desenvolvedor Web e por conta do que eu percebia das coisas que acontecia na gestão / análise, achei que poderia contribuir muito mais nesse meio! Aqui estou a quase 5 anos :-)<br/>
+        Analista de Negócios por paixão, antes de me torná-lo, fiz boa parte da minha carreira profissional como desenvolvedor Web e por conta do que eu percebia das coisas que acontecia na gestão / análise, achei que poderia contribuir muito mais nesse meio! Aqui estou a quase 5 anos :-)<br/>
         Empresa: Taller Digital Business<br/>
         <br/>
         <a href="https://pt-br.facebook.com/helal.ferrari" target="_blank">Facebok</a><br/>
         <a href="https://twitter.com/helalferrari" target="_blank">Twitter<br/>
         <a href="https://br.linkedin.com/in/helalferraricabral" target="_blank">LinkedIn</a><br/>
         <a href="https://www.instagram.com/helalferrari/" target="_blank">Instagram</a>
-    #img: /_2019_pages/speakers/helal-cabral.jpg
+    img: /_2019_pages/speakers/helal-cabral.jpg
     confirmed: true
   speaker_2:
     id: "barbara-hartmann-gabriel-machado"
