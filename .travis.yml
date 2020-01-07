@@ -20,4 +20,5 @@ deploy:
   secret_access_key: $S3_SECRET_KEY
   bucket: $S3_BUCKET
   skip_cleanup: true
+  region: $S3_REGION
   local_dir: _site
