@@ -1,12 +1,12 @@
 language: ruby
 rvm:
-  - 2.4.5
+- 2.4.5
 cache: bundler
 before_install:
-  - gem update --system
-  - gem install bundler
+- gem update --system
+- gem install bundler
 before_script:
-  - chmod +x ./bin/cibuild
+- chmod +x ./bin/cibuild
 script: "./bin/cibuild"
 branches:
   only:
@@ -14,6 +14,7 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - secure: GZr7RzGiPFrWJ2WF+esWcTuGagbXhlV1Q02wV5fyex8EDGKwPV9o9j5H1vgR7X2APro0y4pNsmTaYGuBDExLpowzgTMyEtpfXNON7OOrF89h2CbK5K3X2i/d5TFkEhXwn/ENPSDcCaFYfw45FHoUDJ5L4cMy+1gZaqq6PmgUtcVNm1pShfVxEisszohPKwgZSR29R8/D8MuuRfyUi/GNfnD5JdCGIde3aIETcnGvc0XowPVdNJgC3bTY1+TmMJBniCKtcsEq0rggVoK/MCFbT7fjn8+ifySalf2HRKkWyKLUZ+Ky8rnOYKCaQFMmnZfVDkAwqyhoxz92ygMHNMClMxdWDFEXRLMh5eqeKSxWaJk8UFQWVb2eOLzbDODxQkPz3mR7YqeE+m+LwwrxgtI+oOnS2IgqZNDckZbz7R17BGbwran5KOn8FOalihslAnGXxMm0+Nu7ekGLrVWGiiHQ3FWnaVnitc4KHBr2aCjExDTLB1XLSFT0IGzdTDSShGRbJt69c8qTzXBptUV1pOBxlweJcwIoMC1nyyw00QXQeBCfzDPKeboWull5Z8jpVaDh0DVyh++0d1RkGehATD1a48Fo+724UOf8+NOl3y5m5Qb889t1bEPRX6Xc/0wWkK5zJdnvd7GkeMshDGxVvdUs0wHgYVBMJAobN9/3fUX+T0s=
 deploy:
   provider: s3
   access_key_id: $S3_ACCESS_KEY_ID
